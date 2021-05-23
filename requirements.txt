@@ -1,0 +1,6 @@
+fpl==0.6.27
+prettytable==2.1.0
+pydantic==1.8.1
+mypy==0.812
+black==21.5b0
+flake8==3.9.1
