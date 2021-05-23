@@ -32,9 +32,9 @@ python fpl-stats/scripts/fetch_league.py \
     [> <output_file>]
 ```
 
-The password could either be provided as an argument, or it will be prompted.
-If you want to fetch everything regardless of what data you already have, add the `--force-fetch-all` argument flag.
-If you want to fetch "live" data for an ongoing/current, gameweek, add the `--fetch-live` argument flag.
+The password could either be provided as an argument, or it will be prompted.  
+If you want to fetch everything regardless of what data you already have, add the `--force-fetch-all` argument flag.  
+If you want to fetch "live" data for an ongoing/current, gameweek, add the `--fetch-live` argument flag.  
 
 This will fetch data from `fantasy.premierleague.com` and output the following files:
 * `data/<season>/<league_id>/<league__gw<latest_gameweek_number>`  # league info up to the latest gameweek
@@ -53,10 +53,10 @@ python fpl-stats/scripts/analyze_league.py \
     [--disable-prompt] \
     [> <output_file>]
 ```
-This will output all statistics for your league.
-If you want to analyze the current/ongoing gameweek "live", add the `--live` argument flag.
-If you don't want to press Enter to continue between each statistic, add the `--disable-prompt` argument.
-You could also output the results to file by adding `> output.txt` if you want to store the results.
+This will output all statistics for your league.  
+If you want to analyze the current/ongoing gameweek "live", add the `--live` argument flag.  
+If you don't want to press Enter to continue between each statistic, add the `--disable-prompt` argument.  
+You could also output the results to file by adding `> output.txt` if you want to store the results.  
 
 You could also start your own python shell and get the statistics you are interested in, e.g.
 ```
