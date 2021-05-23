@@ -4,7 +4,8 @@ Usage: python fpl-stats/scripts/fetch_league.py \
     --league=<fpl_league_id> \
     --email=<fpl_username> \
     [--password=<fpl_password>] \
-    [--force-fetch-data] \
+    [--force-fetch-all] \
+    [--fetch-live] \
     [> <output_file>]
 """
 import sys
@@ -50,7 +51,7 @@ def write_file(obj, file_name: str):
 
 
 async def fetch_league_data(
-    email: str, password: str, league_id: int, force_fetch_all=False
+    email: str, password: str, league_id: int, force_fetch_all=False, fetch_live=False
 ):
     """
     Fetches league data for a given league up to the
@@ -67,6 +68,11 @@ async def fetch_league_data(
     """
     async with aiohttp.ClientSession() as session:
         encountered_error = False
+
+        print(
+            "Fetching data for league %s (force_fetch_all=%s, fetch_live=%s)\n"
+            % (league_id, force_fetch_all, fetch_live)
+        )
 
         # Init FPL
         fpl = FPL(session)
@@ -136,6 +142,9 @@ async def fetch_league_data(
         if has_fetched_for_latest_gameweek:
             print("Has already fetched for the latest, finished gameweek!")
 
+        if fetch_live:
+            print("Should fetch 'live' data for current/ongoing gameweek")
+
         # Get user data if not already fetched
         users_already_fetched = False
         users = read_file(USERS_FILE_NAME) or {}
@@ -149,11 +158,14 @@ async def fetch_league_data(
             ):
                 print("\nUsers already up to date")
                 users_already_fetched = True
+                if force_fetch_all:
+                    print("..but should force fetch")
+                elif fetch_live:
+                    print("..but should fetch for current gameweek")
 
-        # Store gameweek history including picks,
-        # auto subs and chips with each user
-        users = read_file(USERS_FILE_NAME) or {}
-        if not users_already_fetched or force_fetch_all:
+        # Store gameweek history including picks, auto subs and chips with each user
+        # Always fetch if one of `force_fetch_all` and `fetch_live` is True
+        if not users_already_fetched or force_fetch_all or fetch_live:
             print("\nGetting users")
             for user in user_list:
                 print("\tGetting for user:", user["name"])
@@ -237,9 +249,14 @@ async def fetch_league_data(
             ):
                 players_already_fetched = True
                 print("\nPlayers already up to date")
+                if force_fetch_all:
+                    print("..but should force fetch")
+                elif fetch_live:
+                    print("..but should fetch for current gameweek")
 
-        # if not players_already_fetched or force_fetch_all:
-        if not players_already_fetched or force_fetch_all:
+        # Fetch players if applicable
+        # Always fetch if one of `force_fetch_all` and `fetch_live` is True
+        if not players_already_fetched or force_fetch_all or fetch_live:
             try:
                 print("\nGetting players")
 
@@ -303,22 +320,31 @@ async def fetch_league_data(
 if __name__ == "__main__":
     # Parse arguments
     parser = argparse.ArgumentParser()
+    parser.add_argument("--league", "-l", help="FPL league id", type=int, required=True)
     parser.add_argument("--email", "-e", help="FPL email", type=str, required=True)
     parser.add_argument(
         "--password", "-p", help="FPL password", type=str, required=False
     )
-    parser.add_argument("--league", "-l", help="FPL league id", type=int, required=True)
     parser.add_argument(
         "--force-fetch-all", help="Include to force fetch all data", action="store_true"
+    )
+    parser.add_argument(
+        "--fetch-live",
+        help="Fetch 'live' data for current gameweek",
+        action="store_true",
     )
 
     args = parser.parse_args(sys.argv[1:])
 
     # Get password if not provided as argument
-    email = args.password
+    email = args.email
     password = args.password
     if not password:
         password = getpass("FPL password for %s: " % email)
 
     # Fetch league data
-    asyncio.run(fetch_league_data(email, password, args.league, args.force_fetch_all))
+    asyncio.run(
+        fetch_league_data(
+            email, password, args.league, args.force_fetch_all, args.fetch_live
+        )
+    )

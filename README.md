@@ -20,16 +20,21 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-## Fetch data
+## Fetch league data
 Before analyzing, you need to fetch data. To fetch data for the current season up to the latest gameweek for your league, run:
 ```
 python fpl-stats/scripts/fetch_league.py \
     --league=<fpl_league_id> \
     --email=<fpl_username> \
     [--password=<fpl_password>] \
-    [--force-fetch-data] \
+    [--force-fetch-all] \
+    [--fetch-live] \
     [> <output_file>]
 ```
+
+The password could either be provided as an argument, or it will be prompted.
+If you want to fetch everything regardless of what data you already have, add the `--force-fetch-all` argument flag.
+If you want to fetch "live" data for an ongoing/current, gameweek, add the `--fetch-live` argument flag.
 
 This will fetch data from `fantasy.premierleague.com` and output the following files:
 * `data/<season>/<league_id>/<league__gw<latest_gameweek_number>`  # league info up to the latest gameweek
@@ -38,7 +43,7 @@ This will fetch data from `fantasy.premierleague.com` and output the following f
 * `data/<season>/<league_id>/<players__gw<latest_gameweek_number>`  # player info for all players selected by at least one of the users in the mini league in at least one gameweek
 These are more or less the raw json responses returned from `fantasy.premierleague.com` dumped to file
 
-## Analyze data
+## Analyze league data
 After fecthing data you can analyze your mini league season data by running:
 ```
 python fpl-stats/scripts/analyze_league.py \
