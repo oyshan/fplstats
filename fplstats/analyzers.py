@@ -1902,10 +1902,10 @@ class LeagueAnalyzer(object):
             highest_gw_rank = 99999999999999999
             highest_overall_rank = 99999999999999999
             for user_gw in user.history:
-                if user_gw.rank < highest_gw_rank:
+                if user_gw.rank and user_gw.rank < highest_gw_rank:
                     highest_gw_rank = user_gw.rank
 
-                if user_gw.overall_rank < highest_overall_rank:
+                if user_gw.overall_rank and user_gw.overall_rank < highest_overall_rank:
                     highest_overall_rank = user_gw.overall_rank
 
             results.append(
@@ -1940,10 +1940,10 @@ class LeagueAnalyzer(object):
             lowest_gw_rank = -1
             lowest_overall_rank = -1
             for user_gw in user.history:
-                if user_gw.rank > lowest_gw_rank:
+                if user_gw.rank and user_gw.rank > lowest_gw_rank:
                     lowest_gw_rank = user_gw.rank
 
-                if user_gw.overall_rank > lowest_overall_rank:
+                if user_gw.overall_rank and user_gw.overall_rank > lowest_overall_rank:
                     lowest_overall_rank = user_gw.overall_rank
 
             results.append(

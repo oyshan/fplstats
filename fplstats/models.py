@@ -1,6 +1,6 @@
 import datetime as dt
 from pydantic import BaseModel
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 from fplstats.enums import Position, Chip
 
@@ -94,8 +94,8 @@ class UserHistory(BaseModel):
     event: int  # gameweek number
     points: int
     total_points: int
-    rank: int
-    rank_sort: int
+    rank: Optional[int]
+    rank_sort: Optional[int]
     overall_rank: int
     bank: int
     value: int
@@ -133,8 +133,8 @@ class LeagueStandingItem(BaseModel):
     entry: str  # user id
     entry_name: str  # user name
     player_name: str
-    rank: int
-    rank_sort: int
+    rank: Optional[int]
+    rank_sort: Optional[int]
     event_total: int
     total: int
 
