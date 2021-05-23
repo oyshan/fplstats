@@ -1,11 +1,9 @@
 # FPL Mini League Statistics
-Get fun and mind-blowing statistics about your FPL mini league season
-
-Built with state of the art algorithms and data structures, and, of course, powered by AI. Loljk, this is as simple (and ugly/hacky) as it gets, done with vanilla Python. TODO: make better/prettier
+Get fun and mind-blowing statistics about your FPL mini league season.
 
 Shout out to `https://github.com/amosbastian/fpl` for making my life easier.
 
-## Installing
+## Setup / installation
 
 Create virtual env
 ```
@@ -25,7 +23,12 @@ pip install -r requirements.txt
 ## Fetch data
 Before analyzing, you need to fetch data. To fetch data for the current season up to the latest gameweek for your league, run:
 ```
-python fpl-stats/scripts/fetch_data.py --league
+python fpl-stats/scripts/fetch_league.py \
+    --league=<fpl_league_id> \
+    --email=<fpl_username> \
+    [--password=<fpl_password>] \
+    [--force-fetch-data] \
+    [> <output_file>]
 ```
 
 This will fetch data from `fantasy.premierleague.com` and output the following files:
@@ -38,7 +41,11 @@ These are more or less the raw json responses returned from `fantasy.premierleag
 ## Analyze data
 After fecthing data you can analyze your mini league season data by running:
 ```
-python fpl-stats/scripts/analyze_data.py --season --league --gameweek
+python fpl-stats/scripts/analyze_league.py \
+    --season=<startyear_endyear> \
+    --league=<fpl_league_id> \
+    [--disable-prompt] \
+    [> <output_file>]
 ```
 This will output all statistics for your league.
 If you don't want to press Enter to continue between each statistic, add the `--disable-prompt` argument.

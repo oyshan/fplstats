@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Usage: python fpl-stats/scripts/fetch_league.py \
-    --email=<fpl_username> \
-    --password=<fpl_password> \
     --league=<fpl_league_id> \
+    --email=<fpl_username> \
+    [--password=<fpl_password>] \
     [--force-fetch-data] \
     [> <output_file>]
 """
@@ -14,6 +14,7 @@ import traceback
 import argparse
 import aiohttp
 import asyncio
+from getpass import getpass
 from fpl import FPL
 
 
@@ -304,7 +305,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--email", "-e", help="FPL email", type=str, required=True)
     parser.add_argument(
-        "--password", "-p", help="FPL password", type=str, required=True
+        "--password", "-p", help="FPL password", type=str, required=False
     )
     parser.add_argument("--league", "-l", help="FPL league id", type=int, required=True)
     parser.add_argument(
@@ -313,7 +314,11 @@ if __name__ == "__main__":
 
     args = parser.parse_args(sys.argv[1:])
 
+    # Get password if not provided as argument
+    email = args.password
+    password = args.password
+    if not password:
+        password = getpass("FPL password for %s: " % email)
+
     # Fetch league data
-    asyncio.run(
-        fetch_league_data(args.email, args.password, args.league, args.force_fetch_all)
-    )
+    asyncio.run(fetch_league_data(email, password, args.league, args.force_fetch_all))
