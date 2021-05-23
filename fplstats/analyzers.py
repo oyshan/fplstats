@@ -692,7 +692,7 @@ class LeagueAnalyzer(object):
         if not self.disable_prompt:
             input("\n\nTrykk Enter for neste statistikk\n\n")
 
-        print("\n\nÅRETS HORE")
+        print("\n\nÅRETS RUNDBRENNER")
         print("Managerne som har vært innom flest unike spillere")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
