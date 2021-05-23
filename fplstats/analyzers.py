@@ -395,6 +395,9 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_gw1_picks_standings()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("ÅRETS CAPTAIN FORESIGHT")
         print("Spillerne med flest kapteinspoeng")
         print(
@@ -404,11 +407,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_captain_foresight()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS CAPTAIN HINDSIGHT")
         print("Spillerne med flest poeng UTEN kapteinspoeng")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_captain_hindsight()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS LENGSTE LEDER")
         print("Spillerne som har ledet ligaen flest gameweeks")
@@ -416,11 +425,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_longest_leader()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS LENGSTE BALLETAK")
         print("Spillerne som har vært på sisteplass i ligaen flest gameweeks")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_longest_loser()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS STØRSTE LEDER")
         print("Lagene som har ledet med flest poeng ligaen")
@@ -428,11 +443,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_biggest_leader()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS STØRSTE BALLETAK")
         print("Lagene som har ligget bakerst med flest poeng ligaen")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_biggest_loser()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS GULLSTØVEL")
         print("Spillerne som har scoret flest mål")
@@ -440,11 +461,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_top_scorers()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS ASSISTKONGE")
         print("Spillerne som har flest assists")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_assist_kings()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS MÅLRETTEDE")
         print("Spillerne som har flest mål+assists")
@@ -452,11 +479,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_goal_involvements()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS FORSVARSLØSE")
         print("Spillerne som har flest mål imot fra spillende keepere og forsvare")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_goals_conceded()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS SKUDDSIKRE")
         print("Spillerne som har flest clean sheets fra spillende keepere og forsvare")
@@ -464,11 +497,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_clean_sheets()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS KEEPER")
         print("Spillerne som har flest strafferedninger")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_penalties_saved()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS FORMSPILLER")
         print("Spillerne med høyest total ila. fem etterfølgende runder")
@@ -476,11 +515,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_best_streaks()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS UTE-AV-FORMSPILLER")
         print("Spillerne med lavest total ila. fem etterfølgende runder")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_worst_streaks()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS ANKER")
         print("Minst differanse mellom beste og verste GW")
@@ -488,17 +533,26 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_stable_user()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS BENKESLITER")
         print("Spillerne med mest poeng på benken (eksklusiv autoinnbyttere)")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_bench_points()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS SUPERINNBYTTER")
         print("Spillerne med mest autoinnbytterpoeng")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_auto_sub_points()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS STYGGE SPILLER")
         print(
@@ -508,11 +562,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_cards()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS SELVEIDE")
         print("Spillerne med flest selvmål")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_own_goals()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS BOMSPILLER")
         print("Spillerne med flest straffebom")
@@ -520,11 +580,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_penalties_missed()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS BONUSSPILLER")
         print("Spillerne med flest bonuspoeng")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_bonus_points()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS MVP")
         print(
@@ -533,6 +599,9 @@ class LeagueAnalyzer(object):
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_points_by_player()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS BESTE DIFF")
         print(
@@ -546,17 +615,26 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_best_differential()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS HØYESTE RANK")
         print("Spillerne med høyest gw+overall rank")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_highest_rank()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS LAVESTE RANK")
         print("Spillerne med lavest gw+overall rank")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_lowest_rank()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS TEMPLATE")
         print(
@@ -566,11 +644,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_template_percentage()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS VINGLEPETTER")
         print("Managerne som har vært innom flest plasser på tabellen")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_league_positions()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS CHIPP-KONGE")
         print("Mest poeng på chips")
@@ -578,11 +662,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_chip_points()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS PIMP")
         print("Mest hits, best hits")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_hits()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS HIGHSCORE")
         print("Mest poeng på én gameweek")
@@ -590,11 +680,17 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_gw_points()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS LOWSCORE")
         print("Lavest poeng på én gameweek")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_least_gw_points()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS HORE")
         print("Managerne som har vært innom flest unike spillere")
@@ -602,17 +698,26 @@ class LeagueAnalyzer(object):
             input("Trykk Enter for å se resultatet")
         self.get_most_distinct_players()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS SPÅMANN")
         print("Mest poeng fra spillere byttet inn samme runde")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_best_transfers()
 
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
+
         print("\n\nÅRETS KARMA")
         print("Mest poeng fra spillere byttet UT samme runde")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_worst_transfers()
+
+        if not self.disable_prompt:
+            input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS VANILLA (ICE)")
         print(
@@ -621,6 +726,8 @@ class LeagueAnalyzer(object):
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_vanilla_standings()
+
+        print("\n\nFERDIG!")
 
     def get_gw1_picks_standings(self: T, print_result=True):
         """
