@@ -116,13 +116,16 @@ class LeagueAnalyzer(object):
     user_list: UserList
     players: PlayerDict
 
-    _latest_finished_gameweek: Optional[Gameweek] = None
+    _latest_gameweek: Optional[Gameweek] = None
     _historic_standings: Optional[HistoricStandings] = None
 
-    def __init__(self: T, season: str, league_id: int, disable_prompt=False):
+    def __init__(
+        self: T, season: str, league_id: int, disable_prompt=False, live=False
+    ):
         self.season = season
         self.league_id = league_id
         self.disable_prompt = disable_prompt
+        self.live = live
 
         # Read league data for season
         # TODO: use file name constants
@@ -166,18 +169,28 @@ class LeagueAnalyzer(object):
         table.add_rows([[*[x[v] for v in attrs.values()]] for x in results])
         print(table)
 
-    def get_latest_finished_gameweek(self: T) -> Gameweek:
-        if self._latest_finished_gameweek is not None:
-            return self._latest_finished_gameweek
+    def get_latest_gameweek(self: T) -> Gameweek:
+        """
+        Get latest finished gameweek, or the current gameweek
+        (if exists) if `self.live` is True
+        """
+        if self._latest_gameweek is not None:
+            return self._latest_gameweek
 
         latest_finished_gameweek = next(
             (x for x in reversed(self.gameweeks) if x.finished)
         )
-        self._latest_finished_gameweek = latest_finished_gameweek
-        return self._latest_finished_gameweek
+        self._latest_gameweek = latest_finished_gameweek
 
-    def get_latest_finished_gameweek_number(self: T) -> int:
-        return self.get_latest_finished_gameweek().id
+        if self.live:
+            current_gameweek = next((x for x in self.gameweeks if x.is_current), None)
+            if current_gameweek:
+                self._latest_gameweek = current_gameweek
+
+        return self._latest_gameweek
+
+    def get_latest_gameweek_number(self: T) -> int:
+        return self.get_latest_gameweek().id
 
     def get_historic_standings(self: T) -> HistoricStandings:
         if self._historic_standings:
@@ -354,12 +367,25 @@ class LeagueAnalyzer(object):
         return owned_by_count / users_count
 
     def get_all_statistics(self: T):
+        """
+        Get (and print out) all statistics for loaded league
+        up to latest finished/ongoing gameweek
+        """
+        latest_gw = self.get_latest_gameweek()
+        if latest_gw.finished:
+            latest_gw_status_str = "finished"
+        elif latest_gw.is_current:
+            latest_gw_status_str = "ongoing"
+        else:
+            raise ValueError("Invalid latest gameweek")
+
         print(
-            "%s-statistikk for %s til og med gameweek %s\n"
+            "%s-statistikk for %s til og med gameweek %s (%s)\n"
             % (
                 self.season,
                 self.league.name,
-                self.get_latest_finished_gameweek_number(),
+                self.get_latest_gameweek_number(),
+                latest_gw_status_str,
             )
         )
 
@@ -1215,7 +1241,7 @@ class LeagueAnalyzer(object):
         for user in self.users.values():
             highest_five_gw_total = 0
             highest_from_gameweek = 0
-            for i in range(0, self.get_latest_finished_gameweek_number()):
+            for i in range(0, self.get_latest_gameweek_number()):
                 # Skip first 4 gameweeks
                 if i < 4:
                     continue
@@ -1281,7 +1307,7 @@ class LeagueAnalyzer(object):
         for user in self.users.values():
             lowest_five_gw_total = float("inf")
             lowest_from_gameweek = 0
-            for i in range(0, self.get_latest_finished_gameweek_number()):
+            for i in range(0, self.get_latest_gameweek_number()):
                 # Skip first 4 gameweeks
                 if i < 4:
                     continue

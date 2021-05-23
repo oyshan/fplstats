@@ -3,6 +3,7 @@
 Usage: python fpl-stats/scripts/analyze_league.py \
     --season=<startyear_endyear> \
     --league=<fpl_league_id> \
+    [--live] \
     [--disable-prompt] \
     [> <output_file>]
 """
@@ -27,6 +28,11 @@ def main():
     )
     parser.add_argument("--league", "-l", help="FPL league id", type=int, required=True)
     parser.add_argument(
+        "--live",
+        help="Analyze current/live gameweek even if it's not finished",
+        action="store_true",
+    )
+    parser.add_argument(
         "--disable-prompt",
         help="Print league statistics immeditaly without prompts to continue",
         action="store_true",
@@ -37,7 +43,9 @@ def main():
     # Get all league statistics
     from fplstats.analyzers import LeagueAnalyzer
 
-    league_analyzer = LeagueAnalyzer(args.season, args.league, args.disable_prompt)
+    league_analyzer = LeagueAnalyzer(
+        args.season, args.league, args.disable_prompt, args.live
+    )
     league_analyzer.get_all_statistics()
 
 

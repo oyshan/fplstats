@@ -126,6 +126,7 @@ class Gameweek(BaseModel):
     id: int  # gameweek number
     name: str
     finished: bool
+    is_current: bool
 
 
 class LeagueStandingItem(BaseModel):

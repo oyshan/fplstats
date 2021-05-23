@@ -44,10 +44,12 @@ After fecthing data you can analyze your mini league season data by running:
 python fpl-stats/scripts/analyze_league.py \
     --season=<startyear_endyear> \
     --league=<fpl_league_id> \
+    [--live] \
     [--disable-prompt] \
     [> <output_file>]
 ```
 This will output all statistics for your league.
+If you want to analyze the current/ongoing gameweek "live", add the `--live` argument flag.
 If you don't want to press Enter to continue between each statistic, add the `--disable-prompt` argument.
 You could also output the results to file by adding `> output.txt` if you want to store the results.
 
