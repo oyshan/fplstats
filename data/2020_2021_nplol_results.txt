@@ -1,0 +1,748 @@
+2020_2021-statistikk for nplol til og med gameweek 38 (finished)
+
+
+
+ÅRETS VISJONÆRE
+What if-tabell for GW1-picks
++----------------------+--------------+----------+-----------+-----------------+------------------------------------------------------------------------------+
+|         Team         | Total points | C points | VC points | Auto-sub points |                                  GW1 picks                                   |
++----------------------+--------------+----------+-----------+-----------------+------------------------------------------------------------------------------+
+| La kula gjøre jobben |     1809     |   231    |     12    |        63       |                              McCarthy(VC) (94)                               |
+|                      |              |          |           |                 |              Dallas (171) Alexander-Arnold (160) Justin (101)                |
+|                      |              |          |           |                 |       Salah(C) (231) Aubameyang (131) Saint-Maximin (85) Traoré (94)         |
+|                      |              |          |           |                 |                     Mitrović (63) Ings (131) Kane (242)                      |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |              Button (0) Vinagre (0) Bissouma (59) Bernardo (4)               |
+|                      |              |          |           |                 |                                                                              |
+|     Soccer MC’s      |     1797     |   231    |     20    |       101       |                                McCarthy (94)                                 |
+|                      |              |          |           |                 |           Walker-Peters (93) Alexander-Arnold (160) Justin (101)             |
+|                      |              |          |           |                 |      Aubameyang(VC) (131) Son (228) Salah(C) (231) Saint-Maximin (85)        |
+|                      |              |          |           |                 |                    Mitrović (63) Werner (128) Ings (131)                     |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |             Nyland (0) Mitchell (44) Bissouma (57) Ferguson (0)              |
+|                      |              |          |           |                 |                                                                              |
+|     CHANGE NAME      |     1728     |   131    |     65    |       129       |                                McCarthy (94)                                 |
+|                      |              |          |           |                 |               Alexander-Arnold (160) Saïss (99) Doherty (47)                 |
+|                      |              |          |           |                 |      Saint-Maximin (85) Salah(VC) (231) Aubameyang(C) (131) Son (228)        |
+|                      |              |          |           |                 |                   Mitrović (63) Werner (128) Adams (137)                     |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |          Button (0) Walker-Peters (84) Stephens (2) Mitchell (43)            |
+|                      |              |          |           |                 |                                                                              |
+|   Snakes on a Kane   |     1677     |   231    |     20    |       203       |                               Johnstone (140)                                |
+|                      |              |          |           |                 |    Alderweireld (88) Alexander-Arnold (160) Ward (66) Walker-Peters (93)     |
+|                      |              |          |           |                 |               Salah(C) (231) Aubameyang(VC) (131) Keita (15)                 |
+|                      |              |          |           |                 |                    Jiménez (43) Wilson (134) Ings (131)                      |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |             Ramsdale (9) Shaw (124) Doucouré (67) Stephens (3)               |
+|                      |              |          |           |                 |                                                                              |
+|    Red lightning     |     1645     |   231    |     20    |        91       |                                McCarthy (94)                                 |
+|                      |              |          |           |                 |              Alexander-Arnold (160) Tierney (96) Justin (101)                |
+|                      |              |          |           |                 |       Bissouma (77) Salah(C) (231) Havertz (91) Aubameyang(VC) (131)         |
+|                      |              |          |           |                 |                    Ings (131) Werner (128) Mitrović (63)                     |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |              Nyland (0) Vinagre (1) Mitchell (43) Lemina (47)                |
+|                      |              |          |           |                 |                                                                              |
+|   Team sisteplass    |     1635     |   131    |     65    |       117       |                                McCarthy (94)                                 |
+|                      |              |          |           |                 |    Alexander-Arnold (160) Justin (101) Walker-Peters (93) Mitchell (58)      |
+|                      |              |          |           |                 |                Alli (30) Aubameyang(C) (131) Salah(VC) (231)                 |
+|                      |              |          |           |                 |                 Ings (131) Werner (128) Calvert-Lewin (165)                  |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |              Button (0) Bissouma (66) Taylor (49) Stephens (2)               |
+|                      |              |          |           |                 |                                                                              |
+|   Full overtenning   |     1632     |   242    |     4     |       119       |                               Patrício (132)                                 |
+|                      |              |          |           |                 |          Doherty (47) Bryan (27) Fernández (53) Walker-Peters (93)           |
+|                      |              |          |           |                 |             Son(VC) (228) Willian (78) Mount (147) Traoré (94)               |
+|                      |              |          |           |                 |                         Werner (128) Kane(C) (242)                           |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |               McCarthy (2) Kilman (52) Barkley (65) Ings (0)                 |
+|                      |              |          |           |                 |                                                                              |
+|  Hurra for ballene   |     1597     |   128    |     5     |       224       |                                McCarthy (94)                                 |
+|                      |              |          |           |                 |           Walker-Peters (93) Justin (101) Alexander-Arnold (160)             |
+|                      |              |          |           |                 |     Lundstram (48) Aubameyang(VC) (131) Saint-Maximin (85) Salah (231)       |
+|                      |              |          |           |                 |                  Ings (131) Mitrović (63) Werner(C) (128)                    |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |               Pope (25) Soucek (123) Johnson (24) Saïss (52)                 |
+|                      |              |          |           |                 |                                                                              |
+|       Team TH        |     1480     |   131    |     65    |        0        |                                Lloris (149)                                  |
+|                      |              |          |           |                 |          Doherty (47) Alexander-Arnold (160) Vinagre (1) Egan (57)           |
+|                      |              |          |           |                 | Oriol Romeu (52) Havertz (91) Son (228) Aubameyang(C) (131) Salah(VC) (231)  |
+|                      |              |          |           |                 |                                 Adams (137)                                  |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |               Ryan (0) Batshuayi (0) Saliba (0) Brewster (0)                 |
+|                      |              |          |           |                 |                                                                              |
+|       A-laget        |     1435     |   231    |     20    |        67       |                                McCarthy (94)                                 |
+|                      |              |          |           |                 |              Alexander-Arnold (160) Davies (52) Mitchell (58)                |
+|                      |              |          |           |                 |         Salah(C) (231) Alli (30) Aubameyang(VC) (131) Diangana (39)          |
+|                      |              |          |           |                 |                    Mitrović (63) Ings (131) Werner (128)                     |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |               Steer (0) Vinagre (1) Bissouma (66) Douglas (0)                |
+|                      |              |          |           |                 |                                                                              |
++----------------------+--------------+----------+-----------+-----------------+------------------------------------------------------------------------------+
+ÅRETS CAPTAIN FORESIGHT
+Spillerne med flest kapteinspoeng
+Her teller kun "ekstra" poeng spilleren gir for å være kaptein, ie. 1 x for normal kaptein og 2 x for triple
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+|         Team         | Total captain points | Total captain points when VC stepped in | Total gameweeks where VC stepped in | Gameweeks without captain/VC |
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+|   Team sisteplass    |         642          |                    0                    |                  0                  |              0               |
+|    Red lightning     |         628          |                    10                   |                  2                  |              0               |
+|   Snakes on a Kane   |         626          |                    6                    |                  1                  |              0               |
+|     Soccer MC’s      |         618          |                    0                    |                  0                  |              0               |
+|       Team TH        |         584          |                    0                    |                  0                  |              0               |
+|  Hurra for ballene   |         572          |                    0                    |                  0                  |              0               |
+|       A-laget        |         568          |                    0                    |                  0                  |              0               |
+| La kula gjøre jobben |         558          |                    0                    |                  0                  |              0               |
+|   Full overtenning   |         556          |                    0                    |                  0                  |              0               |
+|     CHANGE NAME      |         522          |                    6                    |                  1                  |              0               |
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+
+
+ÅRETS CAPTAIN HINDSIGHT
+Spillerne med flest poeng UTEN kapteinspoeng
++----------------------+---------------------------------------+
+|         Team         | Total points excluding captain points |
++----------------------+---------------------------------------+
+|     Soccer MC’s      |                  1828                 |
+|     CHANGE NAME      |                  1818                 |
+| La kula gjøre jobben |                  1810                 |
+|       Team TH        |                  1795                 |
+|       A-laget        |                  1794                 |
+|   Full overtenning   |                  1763                 |
+|  Hurra for ballene   |                  1730                 |
+|    Red lightning     |                  1703                 |
+|   Snakes on a Kane   |                  1700                 |
+|   Team sisteplass    |                  1674                 |
++----------------------+---------------------------------------+
+
+
+ÅRETS LENGSTE LEDER
+Spillerne som har ledet ligaen flest gameweeks
++----------------------+------------------------------------------+
+|         Team         | Total number of gameweeks in first place |
++----------------------+------------------------------------------+
+|       Team TH        |                    13                    |
+|     Soccer MC’s      |                    9                     |
+| La kula gjøre jobben |                    7                     |
+|    Red lightning     |                    4                     |
+|   Full overtenning   |                    2                     |
+|   Team sisteplass    |                    2                     |
+|   Snakes on a Kane   |                    1                     |
+|       A-laget        |                    0                     |
+|     CHANGE NAME      |                    0                     |
+|  Hurra for ballene   |                    0                     |
++----------------------+------------------------------------------+
+
+
+ÅRETS LENGSTE BALLETAK
+Spillerne som har vært på sisteplass i ligaen flest gameweeks
++----------------------+-----------------------------------------+
+|         Team         | Total number of gameweeks in last place |
++----------------------+-----------------------------------------+
+|     CHANGE NAME      |                    10                   |
+|       A-laget        |                    8                    |
+|   Team sisteplass    |                    8                    |
+|  Hurra for ballene   |                    7                    |
+|   Full overtenning   |                    4                    |
+|       Team TH        |                    1                    |
+|     Soccer MC’s      |                    0                    |
+| La kula gjøre jobben |                    0                    |
+|    Red lightning     |                    0                    |
+|   Snakes on a Kane   |                    0                    |
++----------------------+-----------------------------------------+
+
+
+ÅRETS STØRSTE LEDER
+Lagene som har ledet med flest poeng ligaen
++----------------------+-------------------+----------+
+|         Team         | Biggest point gap | Gameweek |
++----------------------+-------------------+----------+
+|     Soccer MC’s      |         86        |    36    |
+|     Soccer MC’s      |         78        |    35    |
+|     Soccer MC’s      |         72        |    37    |
+|     Soccer MC’s      |         67        |    38    |
+|       Team TH        |         59        |    28    |
+|       Team TH        |         53        |    27    |
+|       Team TH        |         47        |    26    |
+|       Team TH        |         43        |    29    |
+| La kula gjøre jobben |         35        |    6     |
+|       Team TH        |         34        |    30    |
++----------------------+-------------------+----------+
+
+
+ÅRETS STØRSTE BALLETAK
+Lagene som har ligget bakerst med flest poeng ligaen
++-----------------+-------------------+----------+
+|       Team      | Biggest point gap | Gameweek |
++-----------------+-------------------+----------+
+|   CHANGE NAME   |        -56        |    11    |
+|     A-laget     |        -53        |    18    |
+|   CHANGE NAME   |        -47        |    8     |
+| Team sisteplass |        -45        |    31    |
+|   CHANGE NAME   |        -44        |    10    |
+|   CHANGE NAME   |        -44        |    12    |
+| Team sisteplass |        -42        |    29    |
+|     A-laget     |        -36        |    19    |
+|   CHANGE NAME   |        -34        |    7     |
+|   CHANGE NAME   |        -33        |    13    |
++-----------------+-------------------+----------+
+
+
+ÅRETS GULLSTØVEL
+Spillerne som har scoret flest mål
++----------------------+--------------+
+|         Team         | Goals scored |
++----------------------+--------------+
+|     Soccer MC’s      |     122      |
+|   Snakes on a Kane   |     116      |
+|    Red lightning     |     114      |
+| La kula gjøre jobben |     113      |
+|       Team TH        |     112      |
+|   Team sisteplass    |     112      |
+|  Hurra for ballene   |     112      |
+|       A-laget        |     111      |
+|     CHANGE NAME      |     110      |
+|   Full overtenning   |     108      |
++----------------------+--------------+
+
+
+ÅRETS ASSISTKONGE
+Spillerne som har flest assists
++----------------------+---------+
+|         Team         | Assists |
++----------------------+---------+
+|     Soccer MC’s      |    95   |
+|   Full overtenning   |    93   |
+| La kula gjøre jobben |    86   |
+|    Red lightning     |    86   |
+|       A-laget        |    85   |
+|   Team sisteplass    |    85   |
+|  Hurra for ballene   |    84   |
+|       Team TH        |    83   |
+|     CHANGE NAME      |    81   |
+|   Snakes on a Kane   |    69   |
++----------------------+---------+
+
+
+ÅRETS MÅLRETTEDE
+Spillerne som har flest mål+assists
++----------------------+-------------------+
+|         Team         | Goal involvements |
++----------------------+-------------------+
+|     Soccer MC’s      |        217        |
+|   Full overtenning   |        201        |
+|    Red lightning     |        200        |
+| La kula gjøre jobben |        199        |
+|   Team sisteplass    |        197        |
+|       A-laget        |        196        |
+|  Hurra for ballene   |        196        |
+|       Team TH        |        195        |
+|     CHANGE NAME      |        191        |
+|   Snakes on a Kane   |        185        |
++----------------------+-------------------+
+
+
+ÅRETS FORSVARSLØSE
+Spillerne som har flest mål imot fra spillende keepere og forsvare
++----------------------+----------------------+
+|         Team         | Total goals conceded |
++----------------------+----------------------+
+|   Full overtenning   |         223          |
+|   Team sisteplass    |         221          |
+|    Red lightning     |         211          |
+| La kula gjøre jobben |         206          |
+|   Snakes on a Kane   |         205          |
+|     Soccer MC’s      |         202          |
+|  Hurra for ballene   |         194          |
+|       Team TH        |         188          |
+|       A-laget        |         166          |
+|     CHANGE NAME      |         166          |
++----------------------+----------------------+
+
+
+ÅRETS SKUDDSIKRE
+Spillerne som har flest clean sheets fra spillende keepere og forsvare
++----------------------+-------------------------------+------------------------------------------+
+|         Team         | Total clean sheets (gk + def) | Total clean sheet points (gk, def + mid) |
++----------------------+-------------------------------+------------------------------------------+
+|     CHANGE NAME      |               73              |                   347                    |
+|       Team TH        |               68              |                   321                    |
+| La kula gjøre jobben |               67              |                   319                    |
+|       A-laget        |               66              |                   321                    |
+|     Soccer MC’s      |               64              |                   315                    |
+|    Red lightning     |               62              |                   304                    |
+|  Hurra for ballene   |               61              |                   308                    |
+|   Snakes on a Kane   |               59              |                   300                    |
+|   Team sisteplass    |               56              |                   274                    |
+|   Full overtenning   |               55              |                   281                    |
++----------------------+-------------------------------+------------------------------------------+
+
+
+ÅRETS KEEPER
+Spillerne som har flest strafferedninger
++----------------------+-----------------------+------------------------------+
+|         Team         | Total penalties saved | Total penalties saved points |
++----------------------+-----------------------+------------------------------+
+|     Soccer MC’s      |           2           |              10              |
+|       A-laget        |           1           |              5               |
+|     CHANGE NAME      |           1           |              5               |
+|    Red lightning     |           1           |              5               |
+|   Team sisteplass    |           1           |              5               |
+|       Team TH        |           0           |              0               |
+| La kula gjøre jobben |           0           |              0               |
+|   Full overtenning   |           0           |              0               |
+|   Snakes on a Kane   |           0           |              0               |
+|  Hurra for ballene   |           0           |              0               |
++----------------------+-----------------------+------------------------------+
+
+
+ÅRETS FORMSPILLER
+Spillerne med høyest total ila. fem etterfølgende runder
++----------------------+--------------+----------------+---------------+-------------+
+|         Team         | Total points | Average points | From gameweek | To gameweek |
++----------------------+--------------+----------------+---------------+-------------+
+|       Team TH        |     434      |      86.8      |       22      |      26     |
+| La kula gjøre jobben |     414      |      82.8      |       22      |      26     |
+|     Soccer MC’s      |     408      |      81.6      |       21      |      25     |
+|     CHANGE NAME      |     407      |      81.4      |       22      |      26     |
+|       A-laget        |     393      |      78.6      |       23      |      27     |
+|   Team sisteplass    |     393      |      78.6      |       31      |      35     |
+|    Red lightning     |     383      |      76.6      |       23      |      27     |
+|   Full overtenning   |     379      |      75.8      |       22      |      26     |
+|  Hurra for ballene   |     376      |      75.2      |       22      |      26     |
+|   Snakes on a Kane   |     373      |      74.6      |       22      |      26     |
++----------------------+--------------+----------------+---------------+-------------+
+
+
+ÅRETS UTE-AV-FORMSPILLER
+Spillerne med lavest total ila. fem etterfølgende runder
++----------------------+--------------+----------------+---------------+-------------+
+|         Team         | Total points | Average points | From gameweek | To gameweek |
++----------------------+--------------+----------------+---------------+-------------+
+|       Team TH        |     229      |      45.8      |       30      |      34     |
+|   Snakes on a Kane   |     231      |      46.2      |       30      |      34     |
+|   Full overtenning   |     241      |      48.2      |       30      |      34     |
+|     CHANGE NAME      |     244      |      48.8      |       6       |      10     |
+|    Red lightning     |     254      |      50.8      |       18      |      22     |
+|   Team sisteplass    |     257      |      51.4      |       27      |      31     |
+|       A-laget        |     258      |      51.6      |       6       |      10     |
+|  Hurra for ballene   |     272      |      54.4      |       12      |      16     |
+| La kula gjøre jobben |     274      |      54.8      |       16      |      20     |
+|     Soccer MC’s      |     285      |      57.0      |       6       |      10     |
++----------------------+--------------+----------------+---------------+-------------+
+
+
+ÅRETS ANKER
+Minst differanse mellom beste og verste GW
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+|         Team         | Lowest range | Highest GW points | Lowest GW points | Total points | Average gw points  |
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+| La kula gjøre jobben |      91      |        121        |        30        |     2368     | 62.31578947368421  |
+|       A-laget        |      91      |        125        |        34        |     2362     |  62.1578947368421  |
+|   Full overtenning   |      92      |        125        |        33        |     2319     | 61.026315789473685 |
+|   Snakes on a Kane   |      92      |        110        |        18        |     2326     | 61.21052631578947  |
+|  Hurra for ballene   |      93      |        129        |        36        |     2302     | 60.578947368421055 |
+|    Red lightning     |      96      |        132        |        36        |     2331     |  61.3421052631579  |
+|     CHANGE NAME      |     103      |        124        |        21        |     2340     | 61.578947368421055 |
+|       Team TH        |     106      |        136        |        30        |     2379     | 62.60526315789474  |
+|     Soccer MC’s      |     107      |        144        |        37        |     2446     | 64.36842105263158  |
+|   Team sisteplass    |     125      |        150        |        25        |     2316     | 60.94736842105263  |
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+
+
+ÅRETS BENKESLITER
+Spillerne med mest poeng på benken (eksklusiv autoinnbyttere)
++----------------------+--------------------+
+|         Team         | Total bench points |
++----------------------+--------------------+
+|  Hurra for ballene   |        306         |
+|       Team TH        |        291         |
+|   Snakes on a Kane   |        286         |
+|     CHANGE NAME      |        256         |
+| La kula gjøre jobben |        237         |
+|    Red lightning     |        226         |
+|   Full overtenning   |        211         |
+|       A-laget        |        198         |
+|     Soccer MC’s      |        186         |
+|   Team sisteplass    |        103         |
++----------------------+--------------------+
+
+
+ÅRETS SUPERINNBYTTER
+Spillerne med mest autoinnbytterpoeng
++----------------------+-----------------------+
+|         Team         | Total auto-sub points |
++----------------------+-----------------------+
+|  Hurra for ballene   |           90          |
+|   Full overtenning   |           73          |
+|       Team TH        |           72          |
+|   Team sisteplass    |           66          |
+| La kula gjøre jobben |           65          |
+|     CHANGE NAME      |           63          |
+|    Red lightning     |           61          |
+|   Snakes on a Kane   |           61          |
+|       A-laget        |           59          |
+|     Soccer MC’s      |           47          |
++----------------------+-----------------------+
+
+
+ÅRETS STYGGE SPILLER
+Spillerne med flest minuspoeng for rødt+gult kort (fra spillende spillere)
++----------------------+-------------------+-----------------+--------------------+-------------+
+|         Team         | Total card points | Total red cards | Total yellow cards | Total cards |
++----------------------+-------------------+-----------------+--------------------+-------------+
+|  Hurra for ballene   |        -62        |        3        |         53         |      56     |
+|       Team TH        |        -58        |        4        |         46         |      50     |
+|    Red lightning     |        -56        |        2        |         50         |      52     |
+|   Snakes on a Kane   |        -55        |        1        |         52         |      53     |
+|   Full overtenning   |        -54        |        3        |         45         |      48     |
+|     Soccer MC’s      |        -51        |        2        |         45         |      47     |
+|       A-laget        |        -50        |        4        |         38         |      42     |
+|   Team sisteplass    |        -50        |        2        |         44         |      46     |
+| La kula gjøre jobben |        -43        |        1        |         40         |      41     |
+|     CHANGE NAME      |        -37        |        0        |         37         |      37     |
++----------------------+-------------------+-----------------+--------------------+-------------+
+
+
+ÅRETS SELVEIDE
+Spillerne med flest selvmål
++----------------------+-----------------+
+|         Team         | Total own goals |
++----------------------+-----------------+
+|     Soccer MC’s      |        1        |
+| La kula gjøre jobben |        1        |
+|     CHANGE NAME      |        1        |
+|   Snakes on a Kane   |        1        |
+|   Team sisteplass    |        1        |
+|       Team TH        |        0        |
+|       A-laget        |        0        |
+|   Full overtenning   |        0        |
+|    Red lightning     |        0        |
+|  Hurra for ballene   |        0        |
++----------------------+-----------------+
+
+
+ÅRETS BOMSPILLER
+Spillerne med flest straffebom
++----------------------+------------------------+
+|         Team         | Total penalties missed |
++----------------------+------------------------+
+|     Soccer MC’s      |           3            |
+|  Hurra for ballene   |           3            |
+|       Team TH        |           2            |
+| La kula gjøre jobben |           2            |
+|       A-laget        |           2            |
+|     CHANGE NAME      |           2            |
+|    Red lightning     |           2            |
+|   Snakes on a Kane   |           2            |
+|   Full overtenning   |           1            |
+|   Team sisteplass    |           1            |
++----------------------+------------------------+
+
+
+ÅRETS BONUSSPILLER
+Spillerne med flest bonuspoeng
++----------------------+--------------------+-----------+
+|         Team         | Total bonus points | Total BPS |
++----------------------+--------------------+-----------+
+|       Team TH        |        253         |    8315   |
+|     CHANGE NAME      |        253         |    8159   |
+|     Soccer MC’s      |        248         |    8258   |
+|   Full overtenning   |        246         |    8091   |
+|  Hurra for ballene   |        237         |    8152   |
+|       A-laget        |        232         |    8118   |
+|   Team sisteplass    |        231         |    7987   |
+|    Red lightning     |        223         |    7992   |
+| La kula gjøre jobben |        219         |    8222   |
+|   Snakes on a Kane   |        211         |    7888   |
++----------------------+--------------------+-----------+
+
+
+ÅRETS MVP
+Spillerne som har gitt mest poeng til et lag ila. sesongen, inklusive kapteinspoeng
++----------------------+-----------+---------------------+
+|         Team         |   Player  | Total player points |
++----------------------+-----------+---------------------+
+|       A-laget        |   Salah   |         363         |
+|    Red lightning     |   Salah   |         343         |
+|   Full overtenning   |    Kane   |         338         |
+|     Soccer MC’s      |   Salah   |         331         |
+|   Snakes on a Kane   | Fernandes |         324         |
+|   Team sisteplass    |   Salah   |         303         |
+|   Full overtenning   | Fernandes |         273         |
+|     CHANGE NAME      |   Salah   |         267         |
+|   Snakes on a Kane   |   Salah   |         261         |
+| La kula gjøre jobben |    Kane   |         260         |
++----------------------+-----------+---------------------+
+
+
+ÅRETS BESTE DIFF
+Spillerne som har gitt mest poeng (totalt, i snitt og på én runde) for et lag
+max_ownership_share for en differential er satt til 0.3
+Utregning av diff points for hver runde: gw_points/owned_by_count --> poeng den spilleren kun gir det laget
+
+BY TOTAL DIFF POINTS
++----------------------+-----------+--------------------+--------------+----------------+---------------------+
+|         Team         |   Player  | total_diff_points  | total_points | gameweek_count | avg_ownership_share |
++----------------------+-----------+--------------------+--------------+----------------+---------------------+
+| La kula gjøre jobben |   Mendy   |        92.0        |      92      |       20       | 0.10500000000000002 |
+|   Snakes on a Kane   |  Rashford |        53.5        |      64      |       14       |  0.1357142857142857 |
+| La kula gjøre jobben |  Maddison |        53.0        |      53      |       6        | 0.09999999999999999 |
+| La kula gjøre jobben |   Jesus   |        51.5        |      57      |       11       | 0.11818181818181821 |
+|   Team sisteplass    |    Dias   | 49.99999999999999  |      86      |       14       |  0.1857142857142857 |
+|       Team TH        |   Vardy   | 47.333333333333336 |      50      |       7        | 0.12857142857142856 |
+|   Snakes on a Kane   |   Lowton  |        47.0        |      47      |       12       | 0.09999999999999999 |
+|   Snakes on a Kane   |  Watkins  | 46.83333333333333  |      73      |       14       | 0.19999999999999998 |
+|       Team TH        |  Bamford  |        45.0        |      73      |       13       |         0.2         |
+|   Full overtenning   | De Bruyne | 44.666666666666664 |      58      |       6        | 0.16666666666666666 |
++----------------------+-----------+--------------------+--------------+----------------+---------------------+
+
+BY AVERAGE DIFF POINTS
++-------------------+-----------+--------------------+--------------+----------------+---------------------+
+|        Team       |   Player  |  avg_diff_points   | total_points | gameweek_count | avg_ownership_share |
++-------------------+-----------+--------------------+--------------+----------------+---------------------+
+|  Team sisteplass  | Fernandes |        17.0        |      17      |       1        |         0.1         |
+|  Snakes on a Kane | De Bruyne |        16.0        |      32      |       1        |         0.2         |
+| Hurra for ballene |  Harrison |        13.0        |      13      |       1        |         0.1         |
+|  Snakes on a Kane |  Gündogan | 11.333333333333334 |      32      |       2        |         0.2         |
+|    CHANGE NAME    |   Foden   |        11.0        |      11      |       1        |         0.1         |
+| Hurra for ballene |    Pope   |        11.0        |      11      |       1        |         0.1         |
+|    CHANGE NAME    |  Veltman  |        10.0        |      10      |       1        |         0.1         |
+|    Soccer MC’s    |    Son    |  9.38888888888889  |      33      |       3        | 0.20000000000000004 |
+|      A-laget      |    Son    | 9.166666666666666  |      19      |       2        |         0.2         |
+|      Team TH      |   Stones  |        9.0         |      27      |       1        |         0.3         |
++-------------------+-----------+--------------------+--------------+----------------+---------------------+
+
+BY HIGHEST SINGLE GAMEWEEK DIFF
++----------------------+-------------+-----------------+-------------------+--------------------------+
+|         Team         |    Player   | max_diff_points | max_diff_gameweek | max_diff_ownership_share |
++----------------------+-------------+-----------------+-------------------+--------------------------+
+|   Full overtenning   |  De Bruyne  |       28.0      |         11        |           0.1            |
+|     Soccer MC’s      |     Son     |       24.0      |         2         |           0.1            |
+| La kula gjøre jobben |   Maddison  |       22.0      |         22        |           0.1            |
+| La kula gjøre jobben |   Godfrey   |       18.0      |         35        |           0.1            |
+|       A-laget        |     Son     |       18.0      |         4         |           0.1            |
+|   Snakes on a Kane   |   Gündogan  |       18.0      |         19        |           0.1            |
+|  Hurra for ballene   | Ward-Prowse |       18.0      |         27        |           0.1            |
+|       Team TH        |    Vardy    |       17.0      |         3         |           0.1            |
+|   Snakes on a Kane   |    Lowton   |       17.0      |         24        |           0.1            |
+|   Team sisteplass    |  Fernandes  |       17.0      |         8         |           0.1            |
++----------------------+-------------+-----------------+-------------------+--------------------------+
+
+
+ÅRETS HØYESTE RANK
+Spillerne med høyest gw+overall rank
++----------------------+-----------------+----------------------+
+|         Team         | Highest GW rank | Highest overall rank |
++----------------------+-----------------+----------------------+
+|       Team TH        |      40153      |        20871         |
+|    Red lightning     |      88418      |        27575         |
+|     Soccer MC’s      |      51848      |        27667         |
+|   Team sisteplass    |      26219      |        76520         |
+|   Full overtenning   |      80147      |        86416         |
+| La kula gjøre jobben |      203218     |        91912         |
+|   Snakes on a Kane   |      122531     |        110151        |
+|       A-laget        |      51095      |        146860        |
+|     CHANGE NAME      |      35286      |        222848        |
+|  Hurra for ballene   |      87283      |        289520        |
++----------------------+-----------------+----------------------+
+
+
+ÅRETS LAVESTE RANK
+Spillerne med lavest gw+overall rank
++----------------------+----------------+---------------------+
+|         Team         | Lowest GW rank | Lowest overall rank |
++----------------------+----------------+---------------------+
+|   Full overtenning   |    5572887     |       4379245       |
+|     CHANGE NAME      |    7609978     |       3590019       |
+|       Team TH        |    6348925     |       2980014       |
+|  Hurra for ballene   |    6155946     |       2115432       |
+|       A-laget        |    5417821     |       1910550       |
+|   Snakes on a Kane   |    7796489     |       1779135       |
+|   Team sisteplass    |    7290639     |       1188949       |
+|    Red lightning     |    6272746     |       1158613       |
+|     Soccer MC’s      |    6549247     |        638110       |
+| La kula gjøre jobben |    6731325     |        638110       |
++----------------------+----------------+---------------------+
+
+
+ÅRETS TEMPLATE
+Managerne med likest lag som de andre (i snitt per spiller per gameweek)
++----------------------+-------------------------------------+
+|         Team         | Average player ownership percentage |
++----------------------+-------------------------------------+
+|     Soccer MC’s      |          51.42105263157896          |
+|     CHANGE NAME      |          50.403508771929815         |
+|    Red lightning     |          48.508771929824555         |
+|   Team sisteplass    |           48.4561403508772          |
+|   Full overtenning   |          47.66666666666666          |
+|       A-laget        |          47.368421052631575         |
+|  Hurra for ballene   |          45.78947368421053          |
+|       Team TH        |          44.68421052631578          |
+| La kula gjøre jobben |          43.29824561403509          |
+|   Snakes on a Kane   |          38.473684210526315         |
++----------------------+-------------------------------------+
+
+
+ÅRETS VINGLEPETTER
+Managerne som har vært innom flest plasser på tabellen
++----------------------+----------------------+---------------------------------+
+|         Team         | Antall unike plasser |             Plasser             |
++----------------------+----------------------+---------------------------------+
+|   Team sisteplass    |          10          | {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} |
+|       Team TH        |          9           |   {1, 2, 3, 4, 6, 7, 8, 9, 10}  |
+|   Full overtenning   |          9           |   {1, 2, 3, 4, 5, 6, 7, 8, 10}  |
+|   Snakes on a Kane   |          8           |     {1, 3, 4, 5, 6, 7, 8, 9}    |
+|    Red lightning     |          8           |     {1, 2, 3, 4, 5, 6, 7, 8}    |
+| La kula gjøre jobben |          8           |     {1, 2, 3, 4, 5, 6, 7, 8}    |
+|       A-laget        |          8           |    {3, 4, 5, 6, 7, 8, 9, 10}    |
+|  Hurra for ballene   |          7           |      {4, 5, 6, 7, 8, 9, 10}     |
+|     Soccer MC’s      |          6           |        {1, 2, 3, 4, 5, 6}       |
+|     CHANGE NAME      |          6           |       {5, 6, 7, 8, 9, 10}       |
++----------------------+----------------------+---------------------------------+
+
+
+ÅRETS CHIPP-KONGE
+Mest poeng på chips
++----------------------+--------------------------------------+-------------------+-----------------------+
+|         Team         | Total chip points excluding wildcard | Total chip points | Total wildcard points |
++----------------------+--------------------------------------+-------------------+-----------------------+
+|     Soccer MC’s      |                 279                  |        385        |          106          |
+| La kula gjøre jobben |                 268                  |        394        |          126          |
+|  Hurra for ballene   |                 260                  |        400        |          140          |
+|     CHANGE NAME      |                 254                  |        396        |          142          |
+|    Red lightning     |                 250                  |        390        |          140          |
+|       Team TH        |                 242                  |        442        |          200          |
+|   Snakes on a Kane   |                 233                  |        357        |          124          |
+|       A-laget        |                 231                  |        379        |          148          |
+|   Team sisteplass    |                 201                  |        340        |          139          |
+|   Full overtenning   |                 198                  |        353        |          155          |
++----------------------+--------------------------------------+-------------------+-----------------------+
+
+
+ÅRETS PIMP
+Mest hits, best hits
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+|         Team         | Total pts earned on hits | Avg. pts earned per hit | Avg. pts for players IN with hits | Avg. pts for players OUT with hits | Total transfers | Total transfer hits | Total transfer cost | Avg. cost per transfer |
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+|       Team TH        |            14            |    1.5555555555555556   |         7.777777777777778         |         2.2222222222222223         |        42       |          9          |          36         |   0.8571428571428571   |
+| La kula gjøre jobben |            11            |          1.375          |               6.375               |                1.0                 |        41       |          8          |          32         |   0.7804878048780488   |
+|   Team sisteplass    |            4             |    0.6666666666666666   |                5.5                |         0.8333333333333334         |        37       |          6          |          24         |   0.6486486486486487   |
+|   Snakes on a Kane   |            0             |            0            |                 -                 |                 -                  |        33       |          0          |          0          |          0.0           |
+|   Full overtenning   |            -4            |           -0.4          |                7.5                |                3.9                 |        43       |          10         |          40         |   0.9302325581395349   |
+|    Red lightning     |           -29            |   -2.6363636363636362   |         5.2727272727272725        |         3.909090909090909          |        44       |          11         |          44         |          1.0           |
+|     Soccer MC’s      |           -30            |   -1.7647058823529411   |         4.9411764705882355        |         2.7058823529411766         |        50       |          17         |          68         |          1.36          |
+|  Hurra for ballene   |           -34            |   -1.4166666666666667   |                4.25               |         1.6666666666666667         |        55       |          24         |          96         |   1.7454545454545454   |
+|       A-laget        |           -45            |           -3.0          |                3.6                |                2.6                 |        49       |          15         |          60         |   1.2244897959183674   |
+|     CHANGE NAME      |           -72            |   -3.4285714285714284   |         5.095238095238095         |         4.523809523809524          |        53       |          21         |          84         |   1.5849056603773586   |
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+
+
+ÅRETS HIGHSCORE
+Mest poeng på én gameweek
++----------------------+-----------------+---------------+-----------------+
+|         Team         | Gameweek points | Gameweek rank | Gameweek number |
++----------------------+-----------------+---------------+-----------------+
+|   Team sisteplass    |       150       |     26219     |        35       |
+|     Soccer MC’s      |       144       |     51848     |        35       |
+|       Team TH        |       136       |     40153     |        19       |
+|    Red lightning     |       132       |     181572    |        35       |
+|  Hurra for ballene   |       129       |     251742    |        35       |
+|       A-laget        |       125       |     354283    |        35       |
+|   Full overtenning   |       125       |     346007    |        35       |
+|     CHANGE NAME      |       124       |     364694    |        35       |
+| La kula gjøre jobben |       121       |     486693    |        35       |
+|       Team TH        |       114       |     60556     |        24       |
++----------------------+-----------------+---------------+-----------------+
+
+
+ÅRETS LOWSCORE
+Lavest poeng på én gameweek
++----------------------+-----------------+---------------+-----------------+
+|         Team         | Gameweek points | Gameweek rank | Gameweek number |
++----------------------+-----------------+---------------+-----------------+
+|   Snakes on a Kane   |        18       |    7796489    |        34       |
+|     CHANGE NAME      |        21       |    7609978    |        34       |
+|   Team sisteplass    |        25       |    7290639    |        20       |
+|       Team TH        |        30       |    6072192    |        34       |
+| La kula gjøre jobben |        30       |    6542809    |        20       |
+|   Snakes on a Kane   |        31       |    6657292    |        6        |
+|   Full overtenning   |        33       |    5572887    |        34       |
+|   Team sisteplass    |        33       |    5177506    |        16       |
+|       A-laget        |        34       |    2845524    |        18       |
+| La kula gjøre jobben |        36       |    5860545    |        13       |
++----------------------+-----------------+---------------+-----------------+
+
+
+ÅRETS RUNDBRENNER
+Managerne som har vært innom flest unike spillere
++----------------------+----------------------------+
+|         Team         | Number of distinct players |
++----------------------+----------------------------+
+|       A-laget        |             81             |
+|     CHANGE NAME      |             80             |
+|  Hurra for ballene   |             74             |
+|     Soccer MC’s      |             72             |
+|       Team TH        |             71             |
+| La kula gjøre jobben |             71             |
+|   Snakes on a Kane   |             71             |
+|    Red lightning     |             67             |
+|   Full overtenning   |             66             |
+|   Team sisteplass    |             58             |
++----------------------+----------------------------+
+
+
+ÅRETS SPÅMANN
+Mest poeng fra spillere byttet inn samme runde
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+|         Team         | Total points from players transferred in (the same gw) | Average points from players transferred in (the same gw) |
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+|     CHANGE NAME      |                          467                           |                    5.076086956521739                     |
+|       Team TH        |                          449                           |                    6.1506849315068495                    |
+|  Hurra for ballene   |                          382                           |                    4.716049382716049                     |
+|     Soccer MC’s      |                          370                           |                    4.111111111111111                     |
+|    Red lightning     |                          362                           |                    4.701298701298701                     |
+|   Snakes on a Kane   |                          362                           |                    4.7631578947368425                    |
+| La kula gjøre jobben |                          358                           |                    4.904109589041096                     |
+|   Full overtenning   |                          351                           |                    4.943661971830986                     |
+|       A-laget        |                          304                           |                    3.8974358974358974                    |
+|   Team sisteplass    |                          282                           |                    4.476190476190476                     |
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+
+ÅRETS KARMA
+Mest poeng fra spillere byttet UT samme runde
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+|         Team         | Total points from players transferred out (the same gw) | Average points from players transferred out (the same gw) |
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+|     CHANGE NAME      |                           350                           |                     2.9914529914529915                    |
+|   Snakes on a Kane   |                           261                           |                            3.0                            |
+|     Soccer MC’s      |                           250                           |                     2.6315789473684212                    |
+|       Team TH        |                           198                           |                     2.712328767123288                     |
+|  Hurra for ballene   |                           189                           |                     2.3333333333333335                    |
+| La kula gjøre jobben |                           172                           |                     2.2337662337662336                    |
+|    Red lightning     |                           168                           |                     1.9310344827586208                    |
+|       A-laget        |                           167                           |                           2.0875                          |
+|   Full overtenning   |                           163                           |                     2.232876712328767                     |
+|   Team sisteplass    |                           145                           |                     2.230769230769231                     |
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+
+ÅRETS VANILLA (ICE)
+Mest vaniljepoeng, ie. poengtotal ekskludert ekstra kapteinspoeng (inkl. TC), auto-subs og benkespillere fra bench boost
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+|         Team         | Total vanilla points | Total points | Extra captain points | Total auto sub points | Total bench boost bench points |
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+|     Soccer MC’s      |         1759         |     2446     |         618          |           47          |               22               |
+|     CHANGE NAME      |         1740         |     2340     |         522          |           63          |               15               |
+| La kula gjøre jobben |         1724         |     2368     |         558          |           65          |               21               |
+|       A-laget        |         1721         |     2362     |         568          |           59          |               14               |
+|       Team TH        |         1713         |     2379     |         584          |           72          |               10               |
+|   Full overtenning   |         1684         |     2319     |         556          |           73          |               6                |
+|    Red lightning     |         1634         |     2331     |         628          |           61          |               8                |
+|   Snakes on a Kane   |         1625         |     2326     |         626          |           61          |               14               |
+|  Hurra for ballene   |         1622         |     2302     |         572          |           90          |               18               |
+|   Team sisteplass    |         1608         |     2316     |         642          |           66          |               0                |
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+
+
+FERDIG!

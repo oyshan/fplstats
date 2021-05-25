@@ -1,0 +1,1628 @@
+[
+  {
+    "id": 1,
+    "name": "Gameweek 1",
+    "deadline_time": "2020-09-12T10:00:00Z",
+    "average_entry_score": 50,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 4761681,
+    "deadline_time_epoch": 1599904800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 142,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 112843
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 225426
+      }
+    ],
+    "most_selected": 259,
+    "most_transferred_in": 12,
+    "top_element": 254,
+    "top_element_info": {
+      "id": 254,
+      "points": 20
+    },
+    "transfers_made": 0,
+    "most_captained": 4,
+    "most_vice_captained": 4
+  },
+  {
+    "id": 2,
+    "name": "Gameweek 2",
+    "deadline_time": "2020-09-19T10:00:00Z",
+    "average_entry_score": 59,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 6234344,
+    "deadline_time_epoch": 1600509600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 165,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 94615
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 111968
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 494000
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 221133
+      }
+    ],
+    "most_selected": 259,
+    "most_transferred_in": 302,
+    "top_element": 390,
+    "top_element_info": {
+      "id": 390,
+      "points": 24
+    },
+    "transfers_made": 14637421,
+    "most_captained": 4,
+    "most_vice_captained": 254
+  },
+  {
+    "id": 3,
+    "name": "Gameweek 3",
+    "deadline_time": "2020-09-26T10:00:00Z",
+    "average_entry_score": 43,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 6223553,
+    "deadline_time_epoch": 1601114400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 119,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 86797
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 155467
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 681997
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 177478
+      }
+    ],
+    "most_selected": 259,
+    "most_transferred_in": 164,
+    "top_element": 224,
+    "top_element_info": {
+      "id": 224,
+      "points": 17
+    },
+    "transfers_made": 20387878,
+    "most_captained": 272,
+    "most_vice_captained": 254
+  },
+  {
+    "id": 4,
+    "name": "Gameweek 4",
+    "deadline_time": "2020-10-03T10:00:00Z",
+    "average_entry_score": 48,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 6563000,
+    "deadline_time_epoch": 1601719200,
+    "deadline_time_game_offset": 0,
+    "highest_score": 160,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 82267
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 131861
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 420437
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 171134
+      }
+    ],
+    "most_selected": 272,
+    "most_transferred_in": 164,
+    "top_element": 37,
+    "top_element_info": {
+      "id": 37,
+      "points": 24
+    },
+    "transfers_made": 14570655,
+    "most_captained": 254,
+    "most_vice_captained": 272
+  },
+  {
+    "id": 5,
+    "name": "Gameweek 5",
+    "deadline_time": "2020-10-17T10:00:00Z",
+    "average_entry_score": 60,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 7124486,
+    "deadline_time_epoch": 1602928800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 136,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 80554
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 161926
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 599860
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 114707
+      }
+    ],
+    "most_selected": 164,
+    "most_transferred_in": 390,
+    "top_element": 117,
+    "top_element_info": {
+      "id": 117,
+      "points": 16
+    },
+    "transfers_made": 18391649,
+    "most_captained": 390,
+    "most_vice_captained": 254
+  },
+  {
+    "id": 6,
+    "name": "Gameweek 6",
+    "deadline_time": "2020-10-23T17:30:00Z",
+    "average_entry_score": 48,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 4289106,
+    "deadline_time_epoch": 1603474200,
+    "deadline_time_game_offset": 0,
+    "highest_score": 123,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 58697
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 118050
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 384670
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 160028
+      }
+    ],
+    "most_selected": 164,
+    "most_transferred_in": 388,
+    "top_element": 202,
+    "top_element_info": {
+      "id": 202,
+      "points": 17
+    },
+    "transfers_made": 12707803,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 7,
+    "name": "Gameweek 7",
+    "deadline_time": "2020-10-30T18:30:00Z",
+    "average_entry_score": 53,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 6909580,
+    "deadline_time_epoch": 1604082600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 131,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 68374
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 66726
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 159972
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 146112
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 232,
+    "top_element": 370,
+    "top_element_info": {
+      "id": 370,
+      "points": 17
+    },
+    "transfers_made": 8811577,
+    "most_captained": 388,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 8,
+    "name": "Gameweek 8",
+    "deadline_time": "2020-11-06T16:00:00Z",
+    "average_entry_score": 55,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 601887,
+    "deadline_time_epoch": 1604678400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 133,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 76086
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 86496
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 144543
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 148254
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 110,
+    "top_element": 302,
+    "top_element_info": {
+      "id": 302,
+      "points": 17
+    },
+    "transfers_made": 9570772,
+    "most_captained": 388,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 9,
+    "name": "Gameweek 9",
+    "deadline_time": "2020-11-21T11:00:00Z",
+    "average_entry_score": 55,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 1800361,
+    "deadline_time_epoch": 1605956400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 119,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 76389
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 158381
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 259461
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 87933
+      }
+    ],
+    "most_selected": 164,
+    "most_transferred_in": 302,
+    "top_element": 164,
+    "top_element_info": {
+      "id": 164,
+      "points": 13
+    },
+    "transfers_made": 12576286,
+    "most_captained": 302,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 10,
+    "name": "Gameweek 10",
+    "deadline_time": "2020-11-27T18:30:00Z",
+    "average_entry_score": 44,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 4357171,
+    "deadline_time_epoch": 1606501800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 117,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 48490
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 87749
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 121238
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 82820
+      }
+    ],
+    "most_selected": 164,
+    "most_transferred_in": 468,
+    "top_element": 275,
+    "top_element_info": {
+      "id": 275,
+      "points": 21
+    },
+    "transfers_made": 8328156,
+    "most_captained": 224,
+    "most_vice_captained": 164
+  },
+  {
+    "id": 11,
+    "name": "Gameweek 11",
+    "deadline_time": "2020-12-05T11:00:00Z",
+    "average_entry_score": 62,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 5110538,
+    "deadline_time_epoch": 1607166000,
+    "deadline_time_game_offset": 0,
+    "highest_score": 132,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 41291
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 156906
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 136212
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 88610
+      }
+    ],
+    "most_selected": 164,
+    "most_transferred_in": 468,
+    "top_element": 141,
+    "top_element_info": {
+      "id": 141,
+      "points": 18
+    },
+    "transfers_made": 10260651,
+    "most_captained": 302,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 12,
+    "name": "Gameweek 12",
+    "deadline_time": "2020-12-11T18:30:00Z",
+    "average_entry_score": 51,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 3123679,
+    "deadline_time_epoch": 1607711400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 120,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 89621
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 60402
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 91197
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 98831
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 254,
+    "top_element": 231,
+    "top_element_info": {
+      "id": 231,
+      "points": 16
+    },
+    "transfers_made": 7999562,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 13,
+    "name": "Gameweek 13",
+    "deadline_time": "2020-12-15T16:30:00Z",
+    "average_entry_score": 42,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 7635989,
+    "deadline_time_epoch": 1608049800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 100,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 75312
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 51261
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 64286
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 70299
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 141,
+    "top_element": 165,
+    "top_element_info": {
+      "id": 165,
+      "points": 14
+    },
+    "transfers_made": 6780344,
+    "most_captained": 302,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 14,
+    "name": "Gameweek 14",
+    "deadline_time": "2020-12-19T11:00:00Z",
+    "average_entry_score": 60,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2778028,
+    "deadline_time_epoch": 1608375600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 136,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 49711
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 31043
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 54437
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 41744
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 474,
+    "top_element": 309,
+    "top_element_info": {
+      "id": 309,
+      "points": 18
+    },
+    "transfers_made": 5947944,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 15,
+    "name": "Gameweek 15",
+    "deadline_time": "2020-12-26T11:00:00Z",
+    "average_entry_score": 41,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 7696631,
+    "deadline_time_epoch": 1608980400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 110,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 57942
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 66424
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 119950
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 152494
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 254,
+    "top_element": 39,
+    "top_element_info": {
+      "id": 39,
+      "points": 15
+    },
+    "transfers_made": 9177142,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 16,
+    "name": "Gameweek 16",
+    "deadline_time": "2020-12-28T13:30:00Z",
+    "average_entry_score": 37,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 3757024,
+    "deadline_time_epoch": 1609162200,
+    "deadline_time_game_offset": 0,
+    "highest_score": 95,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 50094
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 38038
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 174034
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 63220
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 376,
+    "top_element": 88,
+    "top_element_info": {
+      "id": 88,
+      "points": 15
+    },
+    "transfers_made": 6438409,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 17,
+    "name": "Gameweek 17",
+    "deadline_time": "2021-01-01T16:00:00Z",
+    "average_entry_score": 56,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 7770159,
+    "deadline_time_epoch": 1609516800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 129,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 41306
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 27069
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 222186
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 36841
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 141,
+    "top_element": 17,
+    "top_element_info": {
+      "id": 17,
+      "points": 18
+    },
+    "transfers_made": 7293426,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 18,
+    "name": "Gameweek 18",
+    "deadline_time": "2021-01-12T16:30:00Z",
+    "average_entry_score": 30,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 7254288,
+    "deadline_time_epoch": 1610469000,
+    "deadline_time_game_offset": 0,
+    "highest_score": 86,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 19636
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 1410195
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 498119
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 55090
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 272,
+    "top_element": 156,
+    "top_element_info": {
+      "id": 156,
+      "points": 11
+    },
+    "transfers_made": 32158085,
+    "most_captained": 388,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 19,
+    "name": "Gameweek 19",
+    "deadline_time": "2021-01-16T11:00:00Z",
+    "average_entry_score": 74,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 1915505,
+    "deadline_time_epoch": 1610794800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 195,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 387836
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 223366
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 416567
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 531377
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 449,
+    "top_element": 273,
+    "top_element_info": {
+      "id": 273,
+      "points": 27
+    },
+    "transfers_made": 12977478,
+    "most_captained": 254,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 20,
+    "name": "Gameweek 20",
+    "deadline_time": "2021-01-26T16:30:00Z",
+    "average_entry_score": 42,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 3387201,
+    "deadline_time_epoch": 1611678600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 123,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 83827
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 34126
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 337151
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 67565
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 273,
+    "top_element": 277,
+    "top_element_info": {
+      "id": 277,
+      "points": 17
+    },
+    "transfers_made": 11307045,
+    "most_captained": 302,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 21,
+    "name": "Gameweek 21",
+    "deadline_time": "2021-01-30T11:00:00Z",
+    "average_entry_score": 48,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 1801930,
+    "deadline_time_epoch": 1612004400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 120,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 52599
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 31221
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 229286
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 38193
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 164,
+    "top_element": 102,
+    "top_element_info": {
+      "id": 102,
+      "points": 15
+    },
+    "transfers_made": 8598592,
+    "most_captained": 302,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 22,
+    "name": "Gameweek 22",
+    "deadline_time": "2021-02-02T16:30:00Z",
+    "average_entry_score": 57,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 563631,
+    "deadline_time_epoch": 1612283400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 147,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 50587
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 24578
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 132015
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 39196
+      }
+    ],
+    "most_selected": 390,
+    "most_transferred_in": 254,
+    "top_element": 313,
+    "top_element_info": {
+      "id": 313,
+      "points": 17
+    },
+    "transfers_made": 6792640,
+    "most_captained": 254,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 23,
+    "name": "Gameweek 23",
+    "deadline_time": "2021-02-06T11:00:00Z",
+    "average_entry_score": 58,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 748658,
+    "deadline_time_epoch": 1612609200,
+    "deadline_time_game_offset": 0,
+    "highest_score": 133,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 78798
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 24737
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 111646
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 31897
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 313,
+    "top_element": 284,
+    "top_element_info": {
+      "id": 284,
+      "points": 16
+    },
+    "transfers_made": 7127546,
+    "most_captained": 302,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 24,
+    "name": "Gameweek 24",
+    "deadline_time": "2021-02-13T11:00:00Z",
+    "average_entry_score": 61,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 7872587,
+    "deadline_time_epoch": 1613214000,
+    "deadline_time_game_offset": 0,
+    "highest_score": 164,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 162092
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 98762
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 196103
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 170040
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 271,
+    "top_element": 562,
+    "top_element_info": {
+      "id": 562,
+      "points": 20
+    },
+    "transfers_made": 11034241,
+    "most_captained": 302,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 25,
+    "name": "Gameweek 25",
+    "deadline_time": "2021-02-19T18:30:00Z",
+    "average_entry_score": 55,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2837306,
+    "deadline_time_epoch": 1613759400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 135,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 80989
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 30295
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 168620
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 94778
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 366,
+    "top_element": 200,
+    "top_element_info": {
+      "id": 200,
+      "points": 17
+    },
+    "transfers_made": 8312939,
+    "most_captained": 202,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 26,
+    "name": "Gameweek 26",
+    "deadline_time": "2021-02-27T11:00:00Z",
+    "average_entry_score": 75,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 1628363,
+    "deadline_time_epoch": 1614423600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 178,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 502600
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 85597
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 265817
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 684564
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 235,
+    "top_element": 543,
+    "top_element_info": {
+      "id": 543,
+      "points": 21
+    },
+    "transfers_made": 11825562,
+    "most_captained": 302,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 27,
+    "name": "Gameweek 27",
+    "deadline_time": "2021-03-06T11:00:00Z",
+    "average_entry_score": 60,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 3383237,
+    "deadline_time_epoch": 1615028400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 167,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 69639
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 22573
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 85575
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 97102
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 301,
+    "top_element": 275,
+    "top_element_info": {
+      "id": 275,
+      "points": 20
+    },
+    "transfers_made": 6820289,
+    "most_captained": 271,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 28,
+    "name": "Gameweek 28",
+    "deadline_time": "2021-03-12T18:30:00Z",
+    "average_entry_score": 43,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 1000043,
+    "deadline_time_epoch": 1615573800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 119,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 40230
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 18545
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 81612
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 27433
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 543,
+    "top_element": 233,
+    "top_element_info": {
+      "id": 233,
+      "points": 17
+    },
+    "transfers_made": 6579759,
+    "most_captained": 302,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 29,
+    "name": "Gameweek 29",
+    "deadline_time": "2021-03-19T18:30:00Z",
+    "average_entry_score": 25,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 3650109,
+    "deadline_time_epoch": 1616178600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 104,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 11778
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 353319
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 113814
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 13953
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 543,
+    "top_element": 69,
+    "top_element_info": {
+      "id": 69,
+      "points": 14
+    },
+    "transfers_made": 11341856,
+    "most_captained": 388,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 30,
+    "name": "Gameweek 30",
+    "deadline_time": "2021-04-03T10:00:00Z",
+    "average_entry_score": 46,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 6501872,
+    "deadline_time_epoch": 1617444000,
+    "deadline_time_game_offset": 0,
+    "highest_score": 114,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 121159
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 9388
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 88421
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 30851
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 301,
+    "top_element": 481,
+    "top_element_info": {
+      "id": 481,
+      "points": 21
+    },
+    "transfers_made": 5213853,
+    "most_captained": 388,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 31,
+    "name": "Gameweek 31",
+    "deadline_time": "2021-04-09T17:30:00Z",
+    "average_entry_score": 41,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2630804,
+    "deadline_time_epoch": 1617989400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 124,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 31609
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 10347
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 160921
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 15323
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 468,
+    "top_element": 200,
+    "top_element_info": {
+      "id": 200,
+      "points": 17
+    },
+    "transfers_made": 6962826,
+    "most_captained": 388,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 32,
+    "name": "Gameweek 32",
+    "deadline_time": "2021-04-16T17:30:00Z",
+    "average_entry_score": 47,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 785194,
+    "deadline_time_epoch": 1618594200,
+    "deadline_time_game_offset": 0,
+    "highest_score": 120,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 43563
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 18712
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 92793
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 412579
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 233,
+    "top_element": 219,
+    "top_element_info": {
+      "id": 219,
+      "points": 15
+    },
+    "transfers_made": 6802323,
+    "most_captained": 388,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 33,
+    "name": "Gameweek 33",
+    "deadline_time": "2021-04-23T17:30:00Z",
+    "average_entry_score": 36,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2024700,
+    "deadline_time_epoch": 1619199000,
+    "deadline_time_game_offset": 0,
+    "highest_score": 110,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 11321
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 56586
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 117586
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 23694
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 224,
+    "top_element": 91,
+    "top_element_info": {
+      "id": 91,
+      "points": 20
+    },
+    "transfers_made": 7168569,
+    "most_captained": 254,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 34,
+    "name": "Gameweek 34",
+    "deadline_time": "2021-04-30T17:30:00Z",
+    "average_entry_score": 39,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 8136723,
+    "deadline_time_epoch": 1619803800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 125,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 101603
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 10297
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 41900
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 58838
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 388,
+    "top_element": 543,
+    "top_element_info": {
+      "id": 543,
+      "points": 21
+    },
+    "transfers_made": 4262181,
+    "most_captained": 388,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 35,
+    "name": "Gameweek 35",
+    "deadline_time": "2021-05-07T17:30:00Z",
+    "average_entry_score": 83,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 606613,
+    "deadline_time_epoch": 1620408600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 200,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 366980
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 56569
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 83032
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 259618
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 315,
+    "top_element": 23,
+    "top_element_info": {
+      "id": 23,
+      "points": 19
+    },
+    "transfers_made": 7305131,
+    "most_captained": 302,
+    "most_vice_captained": 302
+  },
+  {
+    "id": 36,
+    "name": "Gameweek 36",
+    "deadline_time": "2021-05-14T17:30:00Z",
+    "average_entry_score": 38,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 1037120,
+    "deadline_time_epoch": 1621013400,
+    "deadline_time_game_offset": 0,
+    "highest_score": 118,
+    "is_previous": false,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 24600
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 55992
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 82229
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 49053
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 164,
+    "top_element": 287,
+    "top_element_info": {
+      "id": 287,
+      "points": 20
+    },
+    "transfers_made": 6641444,
+    "most_captained": 254,
+    "most_vice_captained": 390
+  },
+  {
+    "id": 37,
+    "name": "Gameweek 37",
+    "deadline_time": "2021-05-18T15:30:00Z",
+    "average_entry_score": 43,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2564982,
+    "deadline_time_epoch": 1621351800,
+    "deadline_time_game_offset": 0,
+    "highest_score": 120,
+    "is_previous": true,
+    "is_current": false,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 203111
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 17248
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 44766
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 80592
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 315,
+    "top_element": 255,
+    "top_element_info": {
+      "id": 255,
+      "points": 15
+    },
+    "transfers_made": 4137981,
+    "most_captained": 302,
+    "most_vice_captained": 388
+  },
+  {
+    "id": 38,
+    "name": "Gameweek 38",
+    "deadline_time": "2021-05-23T13:30:00Z",
+    "average_entry_score": 49,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2111284,
+    "deadline_time_epoch": 1621776600,
+    "deadline_time_game_offset": 0,
+    "highest_score": 126,
+    "is_previous": false,
+    "is_current": true,
+    "is_next": false,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 367842
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 53762
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 79495
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 165061
+      }
+    ],
+    "most_selected": 302,
+    "most_transferred_in": 202,
+    "top_element": 450,
+    "top_element_info": {
+      "id": 450,
+      "points": 19
+    },
+    "transfers_made": 6085186,
+    "most_captained": 254,
+    "most_vice_captained": 388
+  }
+]
