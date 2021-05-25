@@ -1483,6 +1483,10 @@ class LeagueAnalyzer(object):
             highest_gw_points = 0
             lowest_gw_points = 999999
             for user_gw in user.history:
+                if user_gw.rank is None:
+                    # non-finished gameweek
+                    continue
+
                 if user_gw.points > highest_gw_points:
                     highest_gw_points = user_gw.points
 
@@ -2508,6 +2512,10 @@ class LeagueAnalyzer(object):
         results: List[dict] = []
         for user in self.users.values():
             for user_gw in user.history:
+                if user_gw.rank is None:
+                    # non-finished gameweek - skip
+                    continue
+
                 results.append(
                     {
                         "user_id": user.id,
