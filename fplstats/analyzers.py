@@ -2377,8 +2377,11 @@ class LeagueAnalyzer(object):
         results: list = []
         for user in self.users.values():
             total_transfers = 0
+            total_transfers_with_hits = 0
             total_transfer_cost = 0
             total_points_for_players_transferred_in_with_hits = 0
+            total_points_for_players_transferred_out_with_hits = 0
+            total_points_earned_on_hits = 0
             for user_gw in user.history:
                 total_transfers += user_gw.event_transfers
 
@@ -2402,65 +2405,97 @@ class LeagueAnalyzer(object):
                     # Get gameweek points for players that was transferred in
                     # with hits
                     for transfer in hit_transfers:
-                        player_gw = self.get_combined_gameweek_result_for_player(
+                        total_transfers_with_hits += 1
+
+                        # Get points for player transferred IN
+                        player_in_gw = self.get_combined_gameweek_result_for_player(
                             transfer.element_in, user_gw.event
                         )
                         total_points_for_players_transferred_in_with_hits += (
-                            player_gw.total_points
+                            player_in_gw.total_points
+                        )
+                        # Get points for player transferred OUT
+                        player_out_gw = self.get_combined_gameweek_result_for_player(
+                            transfer.element_out, user_gw.event
+                        )
+                        total_points_for_players_transferred_out_with_hits += (
+                            player_out_gw.total_points
                         )
 
-            total_transfer_hits = total_transfer_cost / 4
-            avg_points_for_players_transferred_in_with_hits = (
-                (
+                        # Aggregate total points earned on hits
+                        # Subtract by 4 as that's the transfer cost for each hit
+                        total_points_earned_on_hits += (
+                            player_in_gw.total_points - player_out_gw.total_points - 4
+                        )
+
+            # Calculate avg. points on transfers in/out for transfers with hits
+            if total_transfers_with_hits:
+                avg_points_for_players_transferred_in_with_hits = (
                     total_points_for_players_transferred_in_with_hits
-                    / total_transfer_hits
+                    / total_transfers_with_hits
                 )
-                if total_transfer_hits
-                else "-"
-            )
-            avg_points_earned_per_hit = (
-                (avg_points_for_players_transferred_in_with_hits - 4)
-                if isinstance(avg_points_for_players_transferred_in_with_hits, float)
-                else 0
-            )
+                avg_points_for_players_transferred_out_with_hits = (
+                    total_points_for_players_transferred_out_with_hits
+                    / total_transfers_with_hits
+                )
+            else:
+                avg_points_for_players_transferred_in_with_hits = "-"  # type: ignore
+                avg_points_for_players_transferred_out_with_hits = "-"  # type: ignore
+
+            # Calculate avg. points earned on transfers with hits
+            if total_transfers_with_hits:
+                avg_points_earned_per_hit = (
+                    total_points_earned_on_hits / total_transfers_with_hits
+                )
+            else:
+                avg_points_earned_per_hit = 0
+
             results.append(
                 {
                     "user": user,
-                    "total_transfers": total_transfers,
-                    "total_transfer_cost": total_transfer_cost,
-                    "total_transfer_hits": total_transfer_hits,
-                    "avg_cost_per_transfer": total_transfer_cost / total_transfers,
+                    "total_points_earned_on_hits": total_points_earned_on_hits,
+                    "avg_points_earned_per_hit": avg_points_earned_per_hit,
                     "total_points_for_players_transferred_in_with_hits": total_points_for_players_transferred_in_with_hits,
                     "avg_points_for_players_transferred_in_with_hits": avg_points_for_players_transferred_in_with_hits,
-                    "avg_points_earned_per_hit": avg_points_earned_per_hit,
+                    "total_points_for_players_transferred_out_with_hits": total_points_for_players_transferred_out_with_hits,
+                    "avg_points_for_players_transferred_out_with_hits": avg_points_for_players_transferred_out_with_hits,
+                    "total_transfers": total_transfers,
+                    "total_transfer_cost": total_transfer_cost,
+                    "total_transfers_with_hits": total_transfers_with_hits,
+                    "avg_cost_per_transfer": total_transfer_cost / total_transfers,
                 }
             )
 
+        # Sort by total points earned on hits, ie. the best "hitter"
         results = sorted(
-            results, key=lambda x: x["avg_points_earned_per_hit"], reverse=True
+            results, key=lambda x: x["total_points_earned_on_hits"], reverse=True
         )
 
         if print_result:
             table = PrettyTable()
             table.field_names = [
                 "Team",
-                "Average points earned per hit (the same gw)",
+                "Total pts earned on hits",
+                "Avg. pts earned per hit",
+                "Avg. pts for players IN with hits",
+                "Avg. pts for players OUT with hits",
+                "Total transfers",
                 "Total transfer hits",
                 "Total transfer cost",
-                "Total transfers",
-                "Average cost per transfer",
-                "Average points for players transferred in with hits (the same gw)",
+                "Avg. cost per transfer",
             ]
             table.add_rows(
                 [
                     [
                         x["user"].name,
+                        x["total_points_earned_on_hits"],
                         x["avg_points_earned_per_hit"],
-                        x["total_transfer_hits"],
-                        x["total_transfer_cost"],
-                        x["total_transfers"],
-                        x["avg_cost_per_transfer"],
                         x["avg_points_for_players_transferred_in_with_hits"],
+                        x["avg_points_for_players_transferred_out_with_hits"],
+                        x["total_transfers"],
+                        x["total_transfers_with_hits"],
+                        x["total_transfer_cost"],
+                        x["avg_cost_per_transfer"],
                     ]
                     for x in results
                 ]
@@ -2627,7 +2662,7 @@ class LeagueAnalyzer(object):
 
         results = sorted(
             results,
-            key=lambda x: x["avg_points_from_players_transferred_in"],
+            key=lambda x: x["total_points_from_players_transferred_in"],
             reverse=True,
         )
 
@@ -2636,8 +2671,8 @@ class LeagueAnalyzer(object):
                 results,
                 attrs={
                     "Team": "user_name",
-                    "Average points from players transferred in (the same gw)": "avg_points_from_players_transferred_in",
                     "Total points from players transferred in (the same gw)": "total_points_from_players_transferred_in",
+                    "Average points from players transferred in (the same gw)": "avg_points_from_players_transferred_in",
                 },
             )
 
@@ -2691,7 +2726,7 @@ class LeagueAnalyzer(object):
 
         results = sorted(
             results,
-            key=lambda x: x["avg_points_from_players_transferred_out"],
+            key=lambda x: x["total_points_from_players_transferred_out"],
             reverse=True,
         )
 
@@ -2700,8 +2735,8 @@ class LeagueAnalyzer(object):
                 results,
                 attrs={
                     "Team": "user_name",
-                    "Average points from players transferred out (the same gw)": "avg_points_from_players_transferred_out",
                     "Total points from players transferred out (the same gw)": "total_points_from_players_transferred_out",
+                    "Average points from players transferred out (the same gw)": "avg_points_from_players_transferred_out",
                 },
             )
 
