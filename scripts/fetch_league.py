@@ -83,7 +83,7 @@ async def fetch_league_data(
 
         # Get league
         print("\nGetting league:", league_id)
-        league_result = await fpl.get_classic_league(686617, return_json=True)
+        league_result = await fpl.get_classic_league(league_id, return_json=True)
         league_info = league_result["league"]
         print("League name:", league_info["name"])
 
