@@ -119,6 +119,7 @@ async def fetch_league_data(
         write_file(user_list, USER_LIST_FILE_NAME)
 
         # Find the latest fetched and finished gameweek
+        latest_finished_gameweek_number_fetched = ''
         fetched_gameweeks = read_file(GAMEWEEKS_FILE_NAME) or []
         if fetched_gameweeks:
             latest_finished_gameweek_number_fetched = next(
