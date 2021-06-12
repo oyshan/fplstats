@@ -15,6 +15,8 @@ import traceback
 import argparse
 import aiohttp
 import asyncio
+import time
+import pathlib
 from getpass import getpass
 from fpl import FPL
 
@@ -96,6 +98,9 @@ async def fetch_league_data(
         global BASE_FILE_PATH
         BASE_FILE_PATH = f"data/{season}/{league_id}"
 
+        print("Making dirs: %s" % BASE_FILE_PATH)
+        pathlib.Path(BASE_FILE_PATH).mkdir(parents=True, exist_ok=True)
+
         # Store league data: {**league_info, "standings": [...]}
         league_standings = league_result.pop("standings")["results"]
         league_data = {**league_info, "standings": league_standings}
@@ -115,6 +120,7 @@ async def fetch_league_data(
         write_file(user_list, USER_LIST_FILE_NAME)
 
         # Find the latest fetched and finished gameweek
+        latest_finished_gameweek_number_fetched = ''
         fetched_gameweeks = read_file(GAMEWEEKS_FILE_NAME) or []
         if fetched_gameweeks:
             latest_finished_gameweek_number_fetched = next(
@@ -168,6 +174,8 @@ async def fetch_league_data(
         if not users_already_fetched or force_fetch_all or fetch_live:
             print("\nGetting users")
             for user in user_list:
+                print("\tSleeping 4 seconds to not get 429: Too Many Requests from the API")
+                time.sleep(4)
                 print("\tGetting for user:", user["name"])
                 user_id = str(user["id"])
 
