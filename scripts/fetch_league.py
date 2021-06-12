@@ -15,6 +15,7 @@ import traceback
 import argparse
 import aiohttp
 import asyncio
+import pathlib
 from getpass import getpass
 from fpl import FPL
 
@@ -95,6 +96,9 @@ async def fetch_league_data(
         # Set base file path: "data/<season>/<league_id>"
         global BASE_FILE_PATH
         BASE_FILE_PATH = f"data/{season}/{league_id}"
+
+        print("Making dirs: %s" % BASE_FILE_PATH)
+        pathlib.Path(BASE_FILE_PATH).mkdir(parents=True, exist_ok=True)
 
         # Store league data: {**league_info, "standings": [...]}
         league_standings = league_result.pop("standings")["results"]
