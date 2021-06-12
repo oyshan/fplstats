@@ -15,6 +15,7 @@ import traceback
 import argparse
 import aiohttp
 import asyncio
+import time
 import pathlib
 from getpass import getpass
 from fpl import FPL
@@ -173,6 +174,8 @@ async def fetch_league_data(
         if not users_already_fetched or force_fetch_all or fetch_live:
             print("\nGetting users")
             for user in user_list:
+                print("\tSleeping 4 seconds to not get 429: Too Many Requests from the API")
+                time.sleep(4)
                 print("\tGetting for user:", user["name"])
                 user_id = str(user["id"])
 
