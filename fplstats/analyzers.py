@@ -937,7 +937,6 @@ class LeagueAnalyzer(object):
                 players_repr += player_label + " "
             players_repr += "\n"
 
-            vice_captain_name = "Benched by not playing" if vc_pick is None else self.players[vc_pick.element].web_name
             # Add to results
             results.append(
                 {
