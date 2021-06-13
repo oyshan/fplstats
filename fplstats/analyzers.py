@@ -739,7 +739,6 @@ class LeagueAnalyzer(object):
 
         results: List[dict] = []
         for user in self.users.values():
-            
             gw1_all_picks = user.history[0].picks
             gw1_starting_picks = gw1_all_picks[:11]
             assert len(gw1_starting_picks) == 11
