@@ -739,6 +739,7 @@ class LeagueAnalyzer(object):
 
         results: List[dict] = []
         for user in self.users.values():
+            
             gw1_all_picks = user.history[0].picks
             gw1_starting_picks = gw1_all_picks[:11]
             assert len(gw1_starting_picks) == 11
@@ -749,7 +750,7 @@ class LeagueAnalyzer(object):
             # auto-sub totals
             captain_pick = next((x for x in gw1_starting_picks if x.is_captain))
             total_captain_points = 0
-            vc_pick = next((x for x in gw1_starting_picks if x.is_vice_captain))
+            vc_pick = next((x for x in gw1_starting_picks if x.is_vice_captain), None)
             total_vice_captain_points = 0
             total_points = 0
             total_auto_sub_points = 0
@@ -937,6 +938,7 @@ class LeagueAnalyzer(object):
                 players_repr += player_label + " "
             players_repr += "\n"
 
+            vice_captain_name = "Benched by not playing" if vc_pick is None else self.players[vc_pick.element].web_name
             # Add to results
             results.append(
                 {
@@ -946,8 +948,8 @@ class LeagueAnalyzer(object):
                     "gw1_player_names": players_repr,
                     "captain_name": self.players[captain_pick.element].web_name,
                     "total_captain_points": total_captain_points,
-                    "vice_captain_name": self.players[vc_pick.element].web_name,
-                    "captain_vc_names": f"{self.players[captain_pick.element].web_name} ({self.players[vc_pick.element].web_name})",
+                    "vice_captain_name": vice_captain_name,
+                    "captain_vc_names": f"{self.players[captain_pick.element].web_name} ({vice_captain_name})",
                     "total_vice_captain_points": total_vice_captain_points,
                     "total_auto_sub_points": total_auto_sub_points,
                 }
