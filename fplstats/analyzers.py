@@ -749,7 +749,7 @@ class LeagueAnalyzer(object):
             # auto-sub totals
             captain_pick = next((x for x in gw1_starting_picks if x.is_captain))
             total_captain_points = 0
-            vc_pick = next((x for x in gw1_starting_picks if x.is_vice_captain))
+            vc_pick = next((x for x in gw1_all_picks if x.is_vice_captain))
             total_vice_captain_points = 0
             total_points = 0
             total_auto_sub_points = 0
