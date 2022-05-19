@@ -8,17 +8,23 @@ Usage: python fpl-stats/scripts/fetch_league.py \
     [--fetch-live] \
     [> <output_file>]
 """
-import sys
+import argparse
+import asyncio
 import json
+import os
+import pathlib
+import sys
 import time
 import traceback
-import argparse
-import aiohttp
-import asyncio
-import time
-import pathlib
 from getpass import getpass
+from typing import Optional
+
+import aiohttp
 from fpl import FPL
+
+# Add base path to path to allow import of fplstats module
+base_path = os.path.join(os.path.dirname(__file__), "..")
+sys.path.insert(0, base_path)
 
 
 BASE_FILE_PATH = None
@@ -120,12 +126,12 @@ async def fetch_league_data(
         write_file(user_list, USER_LIST_FILE_NAME)
 
         # Find the latest fetched and finished gameweek
-        latest_finished_gameweek_number_fetched = ''
+        latest_finished_gameweek_number_fetched: Optional[int] = None
         fetched_gameweeks = read_file(GAMEWEEKS_FILE_NAME) or []
         if fetched_gameweeks:
-            latest_finished_gameweek_number_fetched = next(
-                (g for g in reversed(fetched_gameweeks) if g["finished"])
-            )["id"]
+            latest_finished_gameweek_number_fetched = int(
+                next((g for g in reversed(fetched_gameweeks) if g["finished"]))["id"]
+            )
             print(
                 "Latest fetched and finished gameweek",
                 latest_finished_gameweek_number_fetched,
@@ -174,7 +180,9 @@ async def fetch_league_data(
         if not users_already_fetched or force_fetch_all or fetch_live:
             print("\nGetting users")
             for user in user_list:
-                print("\tSleeping 4 seconds to not get 429: Too Many Requests from the API")
+                print(
+                    "\tSleeping 4 seconds to not get 429: Too Many Requests from the API"
+                )
                 time.sleep(4)
                 print("\tGetting for user:", user["name"])
                 user_id = str(user["id"])
@@ -197,6 +205,38 @@ async def fetch_league_data(
                 current_user["history"] = gameweek_history
                 current_history = current_user["history"]
 
+                # Check if user started after gameweek 1
+                print("gameweek_history", gameweek_history)
+                first_gameweek_number_for_user = gameweek_history[0]["event"]
+                print("\t\tFirst gameweek for user was", first_gameweek_number_for_user)
+                if first_gameweek_number_for_user > 1:
+                    from fplstats.models import UserHistory
+
+                    gw_number = 1
+                    while gw_number < first_gameweek_number_for_user:
+                        print("\t\t\tAdding empty history for gameweek", gw_number)
+                        current_history.insert(
+                            gw_number - 1,
+                            UserHistory(
+                                event=gw_number,
+                                points=0,
+                                total_points=0,
+                                rank=9158154,
+                                overall_rank=9158154,
+                                bank=0,
+                                value=1000,
+                                event_transfers=0,
+                                event_transfers_cost=0,
+                                points_on_bench=0,
+                                picks=[],
+                                auto_subs=[],
+                                chips=[],
+                                transfers=[],
+                            ).dict(),
+                        )
+
+                        gw_number += 1
+
                 # Default to empty lists of auto_subs and chips for each gameweek
                 for gameweek in gameweek_history:
                     gameweek["auto_subs"] = []
@@ -206,6 +246,7 @@ async def fetch_league_data(
                 # Get picks - store with gameweeks
                 print("\t\tGetting user picks")
                 picks = await fpl_user.get_picks()
+
                 time.sleep(0.5)
                 for gameweek_number, gameweek_picks in picks.items():
                     current_history[gameweek_number - 1]["picks"] = gameweek_picks
