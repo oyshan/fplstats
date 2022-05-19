@@ -739,6 +739,24 @@ class LeagueAnalyzer(object):
 
         results: List[dict] = []
         for user in self.users.values():
+            # Skip if user started after gameweek 1
+            if user.history[0].picks == []:
+                results.append(
+                    {
+                        "user_id": user.id,
+                        "user_name": user.name,
+                        "total_points": 0,
+                        "gw1_player_names": "",
+                        "captain_name": "",
+                        "total_captain_points": 0,
+                        "vice_captain_name": "",
+                        "captain_vc_names": "",
+                        "total_vice_captain_points": 0,
+                        "total_auto_sub_points": 0,
+                    }
+                )
+                continue
+
             gw1_all_picks = user.history[0].picks
             gw1_starting_picks = gw1_all_picks[:11]
             assert len(gw1_starting_picks) == 11
