@@ -206,7 +206,6 @@ async def fetch_league_data(
                 current_history = current_user["history"]
 
                 # Check if user started after gameweek 1
-                print("gameweek_history", gameweek_history)
                 first_gameweek_number_for_user = gameweek_history[0]["event"]
                 print("\t\tFirst gameweek for user was", first_gameweek_number_for_user)
                 if first_gameweek_number_for_user > 1:

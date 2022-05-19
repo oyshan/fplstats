@@ -1,0 +1,127 @@
+{
+  "id": 268207,
+  "name": "Koh Samui breakfast theme 2011",
+  "created": "2021-07-21T07:34:43.428840Z",
+  "closed": false,
+  "max_entries": null,
+  "league_type": "x",
+  "scoring": "c",
+  "admin_entry": 1392236,
+  "start_event": 1,
+  "code_privacy": "p",
+  "has_cup": false,
+  "cup_league": null,
+  "rank": null,
+  "standings": [
+    {
+      "id": 7595795,
+      "event_total": 44,
+      "player_name": "\u00d8yvind Hansen",
+      "rank": 1,
+      "last_rank": 1,
+      "rank_sort": 1,
+      "total": 2472,
+      "entry": 1373221,
+      "entry_name": "La kula gj\u00f8re jobben"
+    },
+    {
+      "id": 17120939,
+      "event_total": 32,
+      "player_name": "\u00d8ystein Wethe Hanssen",
+      "rank": 2,
+      "last_rank": 2,
+      "rank_sort": 2,
+      "total": 2459,
+      "entry": 2893882,
+      "entry_name": "Soccer MC\u2019s"
+    },
+    {
+      "id": 26653609,
+      "event_total": 37,
+      "player_name": "Torbj\u00f8rn Hartvigsen",
+      "rank": 3,
+      "last_rank": 3,
+      "rank_sort": 3,
+      "total": 2433,
+      "entry": 4044641,
+      "entry_name": "Team TH"
+    },
+    {
+      "id": 7595797,
+      "event_total": 57,
+      "player_name": "Andreas Lindblad",
+      "rank": 4,
+      "last_rank": 4,
+      "rank_sort": 4,
+      "total": 2427,
+      "entry": 950261,
+      "entry_name": "A-laget"
+    },
+    {
+      "id": 25997895,
+      "event_total": 46,
+      "player_name": "Nicolay Hvidsten",
+      "rank": 5,
+      "last_rank": 5,
+      "rank_sort": 5,
+      "total": 2392,
+      "entry": 3960303,
+      "entry_name": "Change Name"
+    },
+    {
+      "id": 45679377,
+      "event_total": 8,
+      "player_name": "J\u00f8rgen Skovly",
+      "rank": 6,
+      "last_rank": 6,
+      "rank_sort": 6,
+      "total": 2270,
+      "entry": 6440777,
+      "entry_name": "Smekkbrekk"
+    },
+    {
+      "id": 7600757,
+      "event_total": 28,
+      "player_name": "H\u00e5vard Halse",
+      "rank": 7,
+      "last_rank": 7,
+      "rank_sort": 7,
+      "total": 2254,
+      "entry": 1393116,
+      "entry_name": "Red lightning"
+    },
+    {
+      "id": 7595794,
+      "event_total": 37,
+      "player_name": "Snorre Lothar von Gohren Edwin Edwin",
+      "rank": 8,
+      "last_rank": 8,
+      "rank_sort": 8,
+      "total": 2194,
+      "entry": 1301383,
+      "entry_name": "8 times the charm"
+    },
+    {
+      "id": 7595793,
+      "event_total": 34,
+      "player_name": "Severin Sverdvik",
+      "rank": 9,
+      "last_rank": 9,
+      "rank_sort": 9,
+      "total": 2131,
+      "entry": 1392236,
+      "entry_name": "Snakes on a Kane"
+    },
+    {
+      "id": 48362626,
+      "event_total": 32,
+      "player_name": "Mustafa Stenersen",
+      "rank": 10,
+      "last_rank": 10,
+      "rank_sort": 10,
+      "total": 1693,
+      "entry": 6777906,
+      "entry_name": "My balls are ok"
+    }
+  ]
+}
