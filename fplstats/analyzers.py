@@ -1,23 +1,23 @@
-from typing import Dict, List, TypeVar, Optional
-from pydantic import BaseModel
+from typing import Dict, List, Optional, TypeVar
 
 from prettytable import PrettyTable
+from pydantic import BaseModel
 
+from fplstats.constants import MIN_DEFS, MIN_FWDS, MIN_MIDS
 from fplstats.enums import Chip, Position
-from fplstats.constants import MIN_DEFS, MIN_MIDS, MIN_FWDS
-from fplstats.utils import read_file, read_file_to_model
 from fplstats.models import (
-    League,
     Gameweek,
     Gameweeks,
+    League,
+    Player,
+    PlayerDict,
+    PlayerHistory,
     User,
     UserDict,
     UserList,
     UserListItem,
-    Player,
-    PlayerHistory,
-    PlayerDict,
 )
+from fplstats.utils import read_file, read_file_to_model
 
 
 # TODO: move to typing.py (or similar)?

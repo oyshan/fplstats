@@ -7,9 +7,9 @@ Usage: python fpl-stats/scripts/analyze_league.py \
     [--disable-prompt] \
     [> <output_file>]
 """
+import argparse
 import os
 import sys
-import argparse
 
 # Add base path to path to allow import of fplstats module
 base_path = os.path.join(os.path.dirname(__file__), "..")

@@ -1,0 +1,10 @@
+[flake8]
+ignore = E501, W503, U100, E203
+exclude =
+    .git,
+    .pytest_cache,
+    .mypy_cache,
+    venv,
+    env
+max-complexity = 10
+unused-arguments-ignore-variadic-names = True
