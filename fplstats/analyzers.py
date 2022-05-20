@@ -483,7 +483,7 @@ class LeagueAnalyzer(object):
             input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS FORSVARSLØSE")
-        print("Spillerne som har flest mål imot fra spillende keepere og forsvare")
+        print("Spillerne som har flest mål imot fra spillende keepere og forsvarere")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_goals_conceded()
@@ -492,7 +492,9 @@ class LeagueAnalyzer(object):
             input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS SKUDDSIKRE")
-        print("Spillerne som har flest clean sheets fra spillende keepere og forsvare")
+        print(
+            "Spillerne som har flest clean sheets fra spillende keepere og forsvarere"
+        )
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_clean_sheets()
@@ -666,7 +668,7 @@ class LeagueAnalyzer(object):
             input("\n\nTrykk Enter for neste statistikk\n\n")
 
         print("\n\nÅRETS PIMP")
-        print("Mest hits, best hits")
+        print("Mest hits, best hits (samme gameweek)")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
         self.get_most_hits()
@@ -1151,6 +1153,10 @@ class LeagueAnalyzer(object):
             total_gameweeks_without_captain = 0
 
             for user_gw in user.history:
+                # Skip gameweek if "empty" (ie. the user started after this gameweek)
+                if not user_gw.picks:
+                    continue
+
                 # Get player gw results and captain + vc picks
                 gw_players = self.get_gameweek_players(user.id, user_gw.event)
                 captain_pick = next((p for p in user_gw.picks if p.is_captain))
@@ -2236,6 +2242,9 @@ class LeagueAnalyzer(object):
         for user in self.users.values():
             gw_ownership_share_sum: float = 0
             for user_gw in user.history:
+                if not user_gw.picks:
+                    continue  # skip gw if user started in a later gw
+
                 gw_number = user_gw.event
                 player_gw_ownership_share_sum: float = 0
                 for pick in user_gw.picks:
