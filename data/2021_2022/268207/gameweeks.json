@@ -1615,13 +1615,13 @@
     "id": 37,
     "name": "Gameweek 37",
     "deadline_time": "2022-05-15T09:30:00Z",
-    "average_entry_score": 26,
-    "finished": false,
-    "data_checked": false,
-    "highest_scoring_entry": 5579366,
+    "average_entry_score": 43,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 6543240,
     "deadline_time_epoch": 1652607000,
     "deadline_time_game_offset": 0,
-    "highest_score": 118,
+    "highest_score": 166,
     "is_previous": false,
     "is_current": true,
     "is_next": false,
@@ -1650,7 +1650,7 @@
     "top_element": 212,
     "top_element_info": {
       "id": 212,
-      "points": 21
+      "points": 25
     },
     "transfers_made": 12404447,
     "most_captained": 233,
@@ -1670,8 +1670,8 @@
     "is_previous": false,
     "is_current": false,
     "is_next": true,
-    "cup_leagues_created": false,
-    "h2h_ko_matches_created": false,
+    "cup_leagues_created": true,
+    "h2h_ko_matches_created": true,
     "chip_plays": [
       {
         "chip_name": "bboost",
