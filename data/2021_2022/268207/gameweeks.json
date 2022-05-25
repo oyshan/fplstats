@@ -1577,7 +1577,7 @@
     "deadline_time_epoch": 1651926600,
     "deadline_time_game_offset": 0,
     "highest_score": 225,
-    "is_previous": true,
+    "is_previous": false,
     "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
@@ -1622,8 +1622,8 @@
     "deadline_time_epoch": 1652607000,
     "deadline_time_game_offset": 0,
     "highest_score": 166,
-    "is_previous": false,
-    "is_current": true,
+    "is_previous": true,
+    "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
@@ -1660,42 +1660,45 @@
     "id": 38,
     "name": "Gameweek 38",
     "deadline_time": "2022-05-22T13:30:00Z",
-    "average_entry_score": 0,
-    "finished": false,
-    "data_checked": false,
-    "highest_scoring_entry": null,
+    "average_entry_score": 50,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 797216,
     "deadline_time_epoch": 1653226200,
     "deadline_time_game_offset": 0,
-    "highest_score": null,
+    "highest_score": 135,
     "is_previous": false,
-    "is_current": false,
-    "is_next": true,
+    "is_current": true,
+    "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
     "chip_plays": [
       {
         "chip_name": "bboost",
-        "num_played": 70913
+        "num_played": 346490
       },
       {
         "chip_name": "freehit",
-        "num_played": 47790
+        "num_played": 228651
       },
       {
         "chip_name": "wildcard",
-        "num_played": 23751
+        "num_played": 131714
       },
       {
         "chip_name": "3xc",
-        "num_played": 57561
+        "num_played": 259017
       }
     ],
-    "most_selected": null,
-    "most_transferred_in": null,
-    "top_element": null,
-    "top_element_info": null,
-    "transfers_made": 1504511,
-    "most_captained": null,
-    "most_vice_captained": null
+    "most_selected": 256,
+    "most_transferred_in": 359,
+    "top_element": 701,
+    "top_element_info": {
+      "id": 701,
+      "points": 16
+    },
+    "transfers_made": 8851595,
+    "most_captained": 233,
+    "most_vice_captained": 359
   }
 ]
