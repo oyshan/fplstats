@@ -76,3 +76,7 @@ Trykk Enter for å se resultatet+----------------------+--------------+---------
 
 Trykk Enter for neste statistikk
 
+ÅRETS CAPTAIN FORESIGHT
+Spillerne med flest kapteinspoeng
+Her teller kun "ekstra" poeng spilleren gir for å være kaptein, ie. 1 x for normal kaptein og 2 x for triple
+Trykk Enter for å se resultatet
