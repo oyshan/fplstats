@@ -1,4 +1,4 @@
-fpl==0.6.33
+fpl==0.6.34
 prettytable==2.1.0
 pydantic==1.8.1
 mypy==0.812
