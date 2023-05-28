@@ -58,7 +58,7 @@ def write_file(obj, file_name: str):
         json.dump(obj, outfile, indent=2)
 
 
-async def fetch_league_data(
+async def fetch_league_data(  # noqa: C901
     email: str, password: str, league_id: int, force_fetch_all=False, fetch_live=False
 ):
     """
