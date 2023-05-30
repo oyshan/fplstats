@@ -1,0 +1,712 @@
+2022_2023-statistikk for nplol til og med gameweek 38 (finished)
+
+
+
+ÅRETS VISJONÆRE
+What if-tabell for GW1-picks
++----------------------+--------------+----------+-----------+-----------------+------------------------------------------------------------------------------+
+|         Team         | Total points | C points | VC points | Auto-sub points |                                  GW1 picks                                   |
++----------------------+--------------+----------+-----------+-----------------+------------------------------------------------------------------------------+
+|  Bare ikke ballene   |     2074     |   272    |     29    |       167       |                                 Raya (166)                                   |
+|                      |              |          |           |                 |            Alexander-Arnold (156) Trippier (198) N.Williams (54)             |
+|                      |              |          |           |                 |              Salah(VC) (239) Son (152) Bailey (100) Neto (37)                |
+|                      |              |          |           |                 |                 Jesus (125) Haaland(C) (272) Mitrović (107)                  |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |              Sánchez (0) Patterson (17) Andreas (96) Dunk (54)               |
+|                      |              |          |           |                 |                                                                              |
+|    Red lightning     |     2046     |   239    |     6     |       103       |                               Ramsdale (143)                                 |
+|                      |              |          |           |                 |     Alexander-Arnold (156) Cancelo (73) Trippier (198) Robertson (121)       |
+|                      |              |          |           |                 |           Salah(C) (239) Mount (82) Bailey (100) Martinelli (198)            |
+|                      |              |          |           |                 |                        Jesus (125) Haaland(VC) (272)                         |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |            Ward (9) Lyle Taylor (0) N.Williams (32) Andreas (62)             |
+|                      |              |          |           |                 |                                                                              |
+| Overtenningsklubben  |     2020     |   239    |     6     |       174       |                               Ramsdale (143)                                 |
+|                      |              |          |           |                 |        Cancelo (73) James (44) Alexander-Arnold (156) Trippier (198)         |
+|                      |              |          |           |                 |         Bailey (100) Martinelli (198) Salah(C) (239) Luis Díaz (62)          |
+|                      |              |          |           |                 |                        Haaland(VC) (272) Jesus (125)                         |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |                Ward (9) Dier (73) Greenwood (0) Andreas (92)                 |
+|                      |              |          |           |                 |                                                                              |
+|       PC Bears       |     2008     |   239    |     16    |       161       |                               Martínez (135)                                 |
+|                      |              |          |           |                 | Alexander-Arnold (156) Robertson (121) Gabriel (146) Walker (69) James (44)  |
+|                      |              |          |           |                 |               Salah(C) (239) Martinelli (198) Kulusevski (96)                |
+|                      |              |          |           |                 |                         Kane(VC) (263) Jesus (125)                           |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |            Iversen (0) Bailey (82) Andreas (79) Lyle Taylor (0)              |
+|                      |              |          |           |                 |                                                                              |
+|   Snakes on a Kane   |     1963     |   239    |     16    |       103       |                                Alisson (162)                                 |
+|                      |              |          |           |                 |                     Matip (36) Walker (69) Jansson (29)                      |
+|                      |              |          |           |                 |      Grealish (121) Salah(C) (239) Martinelli (198) Saint-Maximin (66)       |
+|                      |              |          |           |                 |                  Haaland (272) Mbeumo (150) Kane(VC) (263)                   |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |          Gazzaniga (0) Vestergaard (0) Murphy (74) Patterson (29)            |
+|                      |              |          |           |                 |                                                                              |
+| La kula gjøre jobben |     1958     |   239    |     24    |       109       |                                 Mendy (24)                                   |
+|                      |              |          |           |                 |       Alexander-Arnold (156) Cancelo (73) Trippier (198) Walker (69)         |
+|                      |              |          |           |                 |          Saka (202) Salah(C) (239) Son(VC) (152) Martinelli (198)            |
+|                      |              |          |           |                 |                          Jesus (125) Mbeumo (150)                            |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |           Gazzaniga (0) Bailey (79) Greenwood (0) N.Williams (30)            |
+|                      |              |          |           |                 |                                                                              |
+|       A-laget        |     1922     |   239    |     0     |       164       |                                  Ward (91)                                   |
+|                      |              |          |           |                 |      Alexander-Arnold(VC) (156) Doherty (35) James (44) Trippier (198)       |
+|                      |              |          |           |                 |         Salah(C) (239) Luis Díaz (62) Martinelli (198) Bailey (100)          |
+|                      |              |          |           |                 |                          Jesus (125) Haaland (272)                           |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |              Sánchez (1) Cancelo (65) Andreas (98) Plange (0)                |
+|                      |              |          |           |                 |                                                                              |
+|     Soccer MC’s      |     1904     |   239    |     16    |       190       |                               Ramsdale (143)                                 |
+|                      |              |          |           |                 | James (44) Alexander-Arnold (156) Cancelo (73) Robertson (121) Walker (69)   |
+|                      |              |          |           |                 |                  Salah(C) (239) Neto (37) Martinelli (198)                   |
+|                      |              |          |           |                 |                         Kane(VC) (263) Jesus (125)                           |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |                Ward (9) Bailey (83) Archer (0) Andreas (98)                  |
+|                      |              |          |           |                 |                                                                              |
+|       Team TH        |     1856     |   239    |     16    |       117       |                                  Ward (91)                                   |
+|                      |              |          |           |                 |        Alexander-Arnold (156) Gabriel (146) Cancelo (73) Dalot (102)         |
+|                      |              |          |           |                 |               Salah(C) (239) Neto (37) Bailey (100) Son (152)                |
+|                      |              |          |           |                 |                         Kane(VC) (263) Jesus (125)                           |
+|                      |              |          |           |                 |                                      -                                       |
+|                      |              |          |           |                 |            Gazzaniga (0) Archer (0) N.Williams (43) Andreas (74)             |
+|                      |              |          |           |                 |                                                                              |
++----------------------+--------------+----------+-----------+-----------------+------------------------------------------------------------------------------+
+ÅRETS CAPTAIN FORESIGHT
+Spillerne med flest kapteinspoeng
+Her teller kun "ekstra" poeng spilleren gir for å være kaptein, ie. 1 x for normal kaptein og 2 x for triple
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+|         Team         | Total captain points | Total captain points when VC stepped in | Total gameweeks where VC stepped in | Gameweeks without captain/VC |
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+|       A-laget        |         702          |                    14                   |                  1                  |              0               |
+|       Team TH        |         700          |                    0                    |                  0                  |              0               |
+|     Soccer MC’s      |         692          |                    0                    |                  0                  |              0               |
+|    Red lightning     |         688          |                    0                    |                  0                  |              0               |
+| Overtenningsklubben  |         678          |                    6                    |                  2                  |              0               |
+|  Bare ikke ballene   |         662          |                    2                    |                  1                  |              0               |
+|       PC Bears       |         654          |                    2                    |                  1                  |              0               |
+| La kula gjøre jobben |         640          |                    2                    |                  1                  |              0               |
+|   Snakes on a Kane   |         612          |                    12                   |                  2                  |              0               |
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+
+
+ÅRETS CAPTAIN HINDSIGHT
+Spillerne med flest poeng UTEN kapteinspoeng
++----------------------+---------------------------------------+
+|         Team         | Total points excluding captain points |
++----------------------+---------------------------------------+
+|       PC Bears       |                  1867                 |
+|    Red lightning     |                  1834                 |
+|     Soccer MC’s      |                  1788                 |
+|       A-laget        |                  1771                 |
+| La kula gjøre jobben |                  1713                 |
+|  Bare ikke ballene   |                  1703                 |
+|   Snakes on a Kane   |                  1700                 |
+| Overtenningsklubben  |                  1670                 |
+|       Team TH        |                  1597                 |
++----------------------+---------------------------------------+
+
+
+ÅRETS LENGSTE LEDER
+Spillerne som har ledet ligaen flest gameweeks
++----------------------+------------------------------------------+
+|         Team         | Total number of gameweeks in first place |
++----------------------+------------------------------------------+
+|    Red lightning     |                    16                    |
+|       A-laget        |                    11                    |
+|       PC Bears       |                    9                     |
+| Overtenningsklubben  |                    2                     |
+|     Soccer MC’s      |                    0                     |
+| La kula gjøre jobben |                    0                     |
+|  Bare ikke ballene   |                    0                     |
+|   Snakes on a Kane   |                    0                     |
+|       Team TH        |                    0                     |
++----------------------+------------------------------------------+
+
+
+ÅRETS LENGSTE BALLETAK
+Spillerne som har vært på sisteplass i ligaen flest gameweeks
++----------------------+-----------------------------------------+
+|         Team         | Total number of gameweeks in last place |
++----------------------+-----------------------------------------+
+|       Team TH        |                    32                   |
+|   Snakes on a Kane   |                    5                    |
+| La kula gjøre jobben |                    1                    |
+|       PC Bears       |                    0                    |
+|    Red lightning     |                    0                    |
+|     Soccer MC’s      |                    0                    |
+|       A-laget        |                    0                    |
+| Overtenningsklubben  |                    0                    |
+|  Bare ikke ballene   |                    0                    |
++----------------------+-----------------------------------------+
+
+
+ÅRETS STØRSTE LEDER
+Lagene som har ledet med flest poeng ligaen
++---------------+-------------------+----------+
+|      Team     | Biggest point gap | Gameweek |
++---------------+-------------------+----------+
+| Red lightning |         47        |    30    |
+| Red lightning |         47        |    32    |
+| Red lightning |         43        |    31    |
+| Red lightning |         29        |    27    |
+| Red lightning |         29        |    33    |
+| Red lightning |         23        |    35    |
+| Red lightning |         21        |    29    |
+|    A-laget    |         12        |    5     |
+|    A-laget    |         12        |    16    |
+|    A-laget    |         12        |    18    |
++---------------+-------------------+----------+
+
+
+ÅRETS STØRSTE BALLETAK
+Lagene som har ligget bakerst med flest poeng ligaen
++---------+-------------------+----------+
+|   Team  | Biggest point gap | Gameweek |
++---------+-------------------+----------+
+| Team TH |        -58        |    33    |
+| Team TH |        -50        |    34    |
+| Team TH |        -44        |    37    |
+| Team TH |        -43        |    28    |
+| Team TH |        -40        |    21    |
+| Team TH |        -39        |    5     |
+| Team TH |        -39        |    32    |
+| Team TH |        -38        |    35    |
+| Team TH |        -37        |    30    |
+| Team TH |        -36        |    31    |
++---------+-------------------+----------+
+
+
+ÅRETS GULLSTØVEL
+Spillerne som har scoret flest mål
++----------------------+--------------+
+|         Team         | Goals scored |
++----------------------+--------------+
+|       PC Bears       |     130      |
+|    Red lightning     |     127      |
+|     Soccer MC’s      |     122      |
+|       A-laget        |     120      |
+|  Bare ikke ballene   |     120      |
+|   Snakes on a Kane   |     114      |
+| Overtenningsklubben  |     112      |
+| La kula gjøre jobben |     111      |
+|       Team TH        |     103      |
++----------------------+--------------+
+
+
+ÅRETS ASSISTKONGE
+Spillerne som har flest assists
++----------------------+---------+
+|         Team         | Assists |
++----------------------+---------+
+|       PC Bears       |    96   |
+|     Soccer MC’s      |    95   |
+|       A-laget        |    95   |
+|    Red lightning     |    94   |
+|   Snakes on a Kane   |    85   |
+| La kula gjøre jobben |    80   |
+|  Bare ikke ballene   |    79   |
+| Overtenningsklubben  |    78   |
+|       Team TH        |    75   |
++----------------------+---------+
+
+
+ÅRETS MÅLRETTEDE
+Spillerne som har flest mål+assists
++----------------------+-------------------+
+|         Team         | Goal involvements |
++----------------------+-------------------+
+|       PC Bears       |        226        |
+|    Red lightning     |        221        |
+|     Soccer MC’s      |        217        |
+|       A-laget        |        215        |
+|  Bare ikke ballene   |        199        |
+|   Snakes on a Kane   |        199        |
+| La kula gjøre jobben |        191        |
+| Overtenningsklubben  |        190        |
+|       Team TH        |        178        |
++----------------------+-------------------+
+
+
+ÅRETS FORSVARSLØSE
+Spillerne som har flest mål imot fra spillende keepere og forsvarere
++----------------------+----------------------+
+|         Team         | Total goals conceded |
++----------------------+----------------------+
+|       Team TH        |         233          |
+| Overtenningsklubben  |         232          |
+|       A-laget        |         199          |
+|       PC Bears       |         192          |
+|  Bare ikke ballene   |         187          |
+|     Soccer MC’s      |         186          |
+|   Snakes on a Kane   |         185          |
+| La kula gjøre jobben |         178          |
+|    Red lightning     |         169          |
++----------------------+----------------------+
+
+
+ÅRETS SKUDDSIKRE
+Spillerne som har flest clean sheets fra spillende keepere og forsvarere
++----------------------+-------------------------------+------------------------------------------+
+|         Team         | Total clean sheets (gk + def) | Total clean sheet points (gk, def + mid) |
++----------------------+-------------------------------+------------------------------------------+
+| Overtenningsklubben  |               64              |                   304                    |
+|     Soccer MC’s      |               60              |                   292                    |
+| La kula gjøre jobben |               60              |                   298                    |
+|    Red lightning     |               59              |                   299                    |
+|       A-laget        |               59              |                   284                    |
+|       PC Bears       |               57              |                   285                    |
+|       Team TH        |               56              |                   271                    |
+|  Bare ikke ballene   |               55              |                   276                    |
+|   Snakes on a Kane   |               55              |                   273                    |
++----------------------+-------------------------------+------------------------------------------+
+
+
+ÅRETS KEEPER
+Spillerne som har flest strafferedninger
++----------------------+-----------------------+------------------------------+
+|         Team         | Total penalties saved | Total penalties saved points |
++----------------------+-----------------------+------------------------------+
+|       Team TH        |           2           |              10              |
+|       PC Bears       |           1           |              5               |
+|    Red lightning     |           1           |              5               |
+| La kula gjøre jobben |           1           |              5               |
+| Overtenningsklubben  |           1           |              5               |
+|  Bare ikke ballene   |           1           |              5               |
+|     Soccer MC’s      |           0           |              0               |
+|       A-laget        |           0           |              0               |
+|   Snakes on a Kane   |           0           |              0               |
++----------------------+-----------------------+------------------------------+
+
+
+ÅRETS FORMSPILLER
+Spillerne med høyest total ila. fem etterfølgende runder
++----------------------+--------------+----------------+---------------+-------------+
+|         Team         | Total points | Average points | From gameweek | To gameweek |
++----------------------+--------------+----------------+---------------+-------------+
+|    Red lightning     |     437      |      87.4      |       25      |      29     |
+|       PC Bears       |     430      |      86.0      |       20      |      24     |
+|     Soccer MC’s      |     411      |      82.2      |       25      |      29     |
+|       A-laget        |     404      |      80.8      |       22      |      26     |
+| La kula gjøre jobben |     401      |      80.2      |       25      |      29     |
+|  Bare ikke ballene   |     386      |      77.2      |       34      |      38     |
+| Overtenningsklubben  |     384      |      76.8      |       25      |      29     |
+|   Snakes on a Kane   |     383      |      76.6      |       21      |      25     |
+|       Team TH        |     377      |      75.4      |       21      |      25     |
++----------------------+--------------+----------------+---------------+-------------+
+
+
+ÅRETS UTE-AV-FORMSPILLER
+Spillerne med lavest total ila. fem etterfølgende runder
++----------------------+--------------+----------------+---------------+-------------+
+|         Team         | Total points | Average points | From gameweek | To gameweek |
++----------------------+--------------+----------------+---------------+-------------+
+| La kula gjøre jobben |     211      |      42.2      |       3       |      7      |
+|   Snakes on a Kane   |     213      |      42.6      |       6       |      10     |
+|       Team TH        |     214      |      42.8      |       3       |      7      |
+| Overtenningsklubben  |     227      |      45.4      |       4       |      8      |
+|       PC Bears       |     233      |      46.6      |       12      |      16     |
+|     Soccer MC’s      |     234      |      46.8      |       3       |      7      |
+|  Bare ikke ballene   |     237      |      47.4      |       6       |      10     |
+|    Red lightning     |     245      |      49.0      |       4       |      8      |
+|       A-laget        |     253      |      50.6      |       11      |      15     |
++----------------------+--------------+----------------+---------------+-------------+
+
+
+ÅRETS STABILE
+Minst differanse mellom beste og verste GW
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+|         Team         | Lowest range | Highest GW points | Lowest GW points | Total points | Average gw points  |
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+|  Bare ikke ballene   |      61      |         95        |        34        |     2365     | 62.23684210526316  |
+|       Team TH        |      78      |        105        |        27        |     2297     | 60.44736842105263  |
+|       A-laget        |      80      |        115        |        35        |     2473     | 65.07894736842105  |
+|   Snakes on a Kane   |      80      |        110        |        30        |     2312     |  60.8421052631579  |
+|     Soccer MC’s      |      82      |        116        |        34        |     2480     | 65.26315789473684  |
+| La kula gjøre jobben |      93      |        118        |        25        |     2353     | 61.921052631578945 |
+|    Red lightning     |      98      |        128        |        30        |     2522     | 66.36842105263158  |
+|       PC Bears       |     106      |        125        |        19        |     2521     | 66.34210526315789  |
+| Overtenningsklubben  |     117      |        140        |        23        |     2348     | 61.78947368421053  |
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+
+
+ÅRETS BENKESLITER
+Spillerne med mest poeng på benken (eksklusiv autoinnbyttere)
++----------------------+--------------------+
+|         Team         | Total bench points |
++----------------------+--------------------+
+|  Bare ikke ballene   |        340         |
+|    Red lightning     |        323         |
+| La kula gjøre jobben |        305         |
+|       Team TH        |        303         |
+| Overtenningsklubben  |        301         |
+|     Soccer MC’s      |        278         |
+|       A-laget        |        272         |
+|       PC Bears       |        271         |
+|   Snakes on a Kane   |        161         |
++----------------------+--------------------+
+
+
+ÅRETS SUPERINNBYTTER
+Spillerne med mest autoinnbytterpoeng
++----------------------+-----------------------+
+|         Team         | Total auto-sub points |
++----------------------+-----------------------+
+|  Bare ikke ballene   |           76          |
+|   Snakes on a Kane   |           58          |
+|     Soccer MC’s      |           51          |
+|       Team TH        |           51          |
+|    Red lightning     |           39          |
+|       A-laget        |           38          |
+| La kula gjøre jobben |           37          |
+| Overtenningsklubben  |           35          |
+|       PC Bears       |           20          |
++----------------------+-----------------------+
+
+
+ÅRETS STYGGE SPILLER
+Spillerne med flest minuspoeng for rødt+gult kort (fra spillende spillere)
++----------------------+-------------------+-----------------+--------------------+-------------+
+|         Team         | Total card points | Total red cards | Total yellow cards | Total cards |
++----------------------+-------------------+-----------------+--------------------+-------------+
+|  Bare ikke ballene   |        -63        |        2        |         57         |      59     |
+|   Snakes on a Kane   |        -62        |        3        |         53         |      56     |
+|       PC Bears       |        -61        |        1        |         58         |      59     |
+|    Red lightning     |        -61        |        1        |         58         |      59     |
+| La kula gjøre jobben |        -61        |        1        |         58         |      59     |
+| Overtenningsklubben  |        -59        |        1        |         56         |      57     |
+|       A-laget        |        -56        |        1        |         53         |      54     |
+|       Team TH        |        -56        |        1        |         53         |      54     |
+|     Soccer MC’s      |        -54        |        1        |         51         |      52     |
++----------------------+-------------------+-----------------+--------------------+-------------+
+
+
+ÅRETS SELVEIDE
+Spillerne med flest selvmål
++----------------------+-----------------+
+|         Team         | Total own goals |
++----------------------+-----------------+
+|  Bare ikke ballene   |        3        |
+|       PC Bears       |        2        |
+|     Soccer MC’s      |        2        |
+|       A-laget        |        2        |
+| Overtenningsklubben  |        2        |
+|    Red lightning     |        1        |
+| La kula gjøre jobben |        1        |
+|   Snakes on a Kane   |        1        |
+|       Team TH        |        1        |
++----------------------+-----------------+
+
+
+ÅRETS BOMSPILLER
+Spillerne med flest straffebom
++----------------------+------------------------+
+|         Team         | Total penalties missed |
++----------------------+------------------------+
+|       A-laget        |           6            |
+| Overtenningsklubben  |           5            |
+|   Snakes on a Kane   |           5            |
+|     Soccer MC’s      |           4            |
+| La kula gjøre jobben |           3            |
+|  Bare ikke ballene   |           2            |
+|       Team TH        |           2            |
+|       PC Bears       |           1            |
+|    Red lightning     |           0            |
++----------------------+------------------------+
+
+
+ÅRETS BONUSSPILLER
+Spillerne med flest bonuspoeng
++----------------------+--------------------+-----------+
+|         Team         | Total bonus points | Total BPS |
++----------------------+--------------------+-----------+
+|       PC Bears       |        266         |    8887   |
+|       A-laget        |        253         |    8254   |
+|    Red lightning     |        251         |    8662   |
+|     Soccer MC’s      |        249         |    8350   |
+|  Bare ikke ballene   |        240         |    8401   |
+|       Team TH        |        239         |    7909   |
+|   Snakes on a Kane   |        231         |    8104   |
+| La kula gjøre jobben |        227         |    7844   |
+| Overtenningsklubben  |        225         |    8166   |
++----------------------+--------------------+-----------+
+
+
+ÅRETS MVP
+Spillerne som har gitt mest poeng til et lag ila. sesongen, inklusive kapteinspoeng
++----------------------+---------+---------------------+
+|         Team         |  Player | Total player points |
++----------------------+---------+---------------------+
+|  Bare ikke ballene   | Haaland |         500         |
+| Overtenningsklubben  | Haaland |         493         |
+|   Snakes on a Kane   | Haaland |         493         |
+|       A-laget        | Haaland |         485         |
+|       PC Bears       | Haaland |         474         |
+|    Red lightning     | Haaland |         469         |
+|     Soccer MC’s      | Haaland |         428         |
+| La kula gjøre jobben | Haaland |         398         |
+|       Team TH        | Haaland |         324         |
+|       A-laget        |  Salah  |         274         |
++----------------------+---------+---------------------+
+
+
+ÅRETS BESTE DIFF
+Spillerne som har gitt mest poeng (totalt, i snitt og på én runde) for et lag
+max_ownership_share for en differential er satt til 0.3
+Utregning av diff points for hver runde: gw_points/owned_by_count --> poeng den spilleren kun gir det laget
+
+BY TOTAL DIFF POINTS
++----------------------+--------------+-------------------+--------------+----------------+---------------------+
+|         Team         |    Player    | total_diff_points | total_points | gameweek_count | avg_ownership_share |
++----------------------+--------------+-------------------+--------------+----------------+---------------------+
+|       PC Bears       |  Fernandes   |        78.0       |      91      |       13       | 0.14529914529914534 |
+|   Snakes on a Kane   |   Ødegaard   |        57.0       |      85      |       14       | 0.18253968253968259 |
+|    Red lightning     |     Dunk     |        55.0       |      60      |       13       | 0.13675213675213677 |
+|  Bare ikke ballene   |    Mbeumo    |        49.5       |      68      |       13       |  0.1880341880341881 |
+| La kula gjøre jobben |   Alisson    |        48.5       |      66      |       13       | 0.16239316239316243 |
+|  Bare ikke ballene   | Mac Allister |        48.5       |      54      |       10       | 0.14444444444444446 |
+|  Bare ikke ballene   |   Gabriel    |        46.0       |      46      |       16       | 0.11111111111111115 |
+|       Team TH        |    Toney     |        45.5       |      67      |       13       | 0.17094017094017097 |
+|   Snakes on a Kane   |   Alisson    |        45.0       |      76      |       18       | 0.18518518518518523 |
+|   Snakes on a Kane   |     Kane     |        38.0       |      38      |       6        | 0.11111111111111112 |
++----------------------+--------------+-------------------+--------------+----------------+---------------------+
+
+BY AVERAGE DIFF POINTS
++----------------------+------------------+-------------------+--------------+----------------+---------------------+
+|         Team         |      Player      |  avg_diff_points  | total_points | gameweek_count | avg_ownership_share |
++----------------------+------------------+-------------------+--------------+----------------+---------------------+
+|    Red lightning     |    Martinelli    |        13.0       |      26      |       1        |  0.2222222222222222 |
+| La kula gjøre jobben |    Diogo Jota    |        13.0       |      13      |       1        |  0.1111111111111111 |
+| Overtenningsklubben  |       Isak       |        13.0       |      13      |       1        |  0.1111111111111111 |
+|  Bare ikke ballene   |       Saka       |        9.0        |      9       |       1        |  0.1111111111111111 |
+|   Snakes on a Kane   |    Zinchenko     |        9.0        |      18      |       1        |  0.2222222222222222 |
+|  Bare ikke ballene   |     Rodrigo      | 8.833333333333334 |      33      |       3        | 0.14814814814814814 |
+|       Team TH        |     Watkins      |        8.75       |      26      |       2        | 0.16666666666666666 |
+|       PC Bears       |     Watkins      |        8.5        |      17      |       1        |  0.2222222222222222 |
+|       A-laget        |       Shaw       |        8.5        |      17      |       2        |  0.1111111111111111 |
+| Overtenningsklubben  | Alexander-Arnold |        8.0        |      8       |       1        |  0.1111111111111111 |
++----------------------+------------------+-------------------+--------------+----------------+---------------------+
+
+BY HIGHEST SINGLE GAMEWEEK DIFF
++-------------------+------------+-----------------+-------------------+--------------------------+
+|        Team       |   Player   | max_diff_points | max_diff_gameweek | max_diff_ownership_share |
++-------------------+------------+-----------------+-------------------+--------------------------+
+|      PC Bears     |   Foden    |       19.0      |         9         |    0.1111111111111111    |
+|      PC Bears     | Fernandes  |       19.0      |         20        |    0.1111111111111111    |
+|      Team TH      |   Toney    |       17.0      |         6         |    0.1111111111111111    |
+| Bare ikke ballene |   Mbeumo   |       16.0      |         37        |    0.1111111111111111    |
+| Bare ikke ballene |  Gabriel   |       15.0      |         25        |    0.1111111111111111    |
+|  Snakes on a Kane |  Mitrović  |       15.0      |         17        |    0.1111111111111111    |
+|      PC Bears     |   Dalot    |       14.0      |         31        |    0.1111111111111111    |
+|      PC Bears     | Kulusevski |       13.0      |         1         |    0.1111111111111111    |
+|   Red lightning   | Martinelli |       13.0      |         25        |    0.2222222222222222    |
+|   Red lightning   | Diogo Jota |       13.0      |         38        |    0.1111111111111111    |
++-------------------+------------+-----------------+-------------------+--------------------------+
+
+
+ÅRETS HØYESTE RANK
+Spillerne med høyest gw+overall rank
++----------------------+-----------------+----------------------+
+|         Team         | Highest GW rank | Highest overall rank |
++----------------------+-----------------+----------------------+
+|    Red lightning     |      32471      |        14556         |
+|       A-laget        |      250651     |        44282         |
+|       PC Bears       |       594       |        48637         |
+| Overtenningsklubben  |      29859      |        117993        |
+|     Soccer MC’s      |      139084     |        127387        |
+|  Bare ikke ballene   |      34340      |        339183        |
+| La kula gjøre jobben |      240422     |        633353        |
+|   Snakes on a Kane   |      334900     |       1102118        |
+|       Team TH        |      155835     |       1556227        |
++----------------------+-----------------+----------------------+
+
+
+ÅRETS LAVESTE RANK
+Spillerne med lavest gw+overall rank
++----------------------+----------------+---------------------+
+|         Team         | Lowest GW rank | Lowest overall rank |
++----------------------+----------------+---------------------+
+|       Team TH        |    9802018     |       6059307       |
+| La kula gjøre jobben |    9881022     |       5358082       |
+|   Snakes on a Kane   |    9764357     |       4129089       |
+|     Soccer MC’s      |    8601826     |       2533613       |
+| Overtenningsklubben  |    10415546    |       1978143       |
+|       A-laget        |    9417654     |       1725838       |
+|  Bare ikke ballene   |    8480729     |       1702399       |
+|       PC Bears       |    11276170    |       1305997       |
+|    Red lightning     |    9546289     |        773588       |
++----------------------+----------------+---------------------+
+
+
+ÅRETS TEMPLATE
+Managerne med likest lag som de andre (i snitt per spiller per gameweek)
++----------------------+-------------------------------------+
+|         Team         | Average player ownership percentage |
++----------------------+-------------------------------------+
+|    Red lightning     |          56.39376218323587          |
+|     Soccer MC’s      |          54.54191033138399          |
+| Overtenningsklubben  |           53.0409356725146          |
+|       A-laget        |          52.28070175438594          |
+|       PC Bears       |          51.32553606237815          |
+| La kula gjøre jobben |          50.545808966861586         |
+|       Team TH        |          47.504873294346964         |
+|  Bare ikke ballene   |          44.600389863547754         |
+|   Snakes on a Kane   |          44.307992202729054         |
++----------------------+-------------------------------------+
+
+
+ÅRETS VINGLEPETTER
+Managerne som har vært innom flest plasser på tabellen
++----------------------+----------------------+-----------------------+
+|         Team         | Antall unike plasser |        Plasser        |
++----------------------+----------------------+-----------------------+
+| Overtenningsklubben  |          7           | {1, 2, 4, 5, 6, 7, 8} |
+| La kula gjøre jobben |          7           | {2, 4, 5, 6, 7, 8, 9} |
+|       PC Bears       |          6           |   {1, 2, 3, 4, 5, 6}  |
+|     Soccer MC’s      |          6           |   {2, 3, 4, 5, 6, 7}  |
+|  Bare ikke ballene   |          5           |    {4, 5, 6, 7, 8}    |
+|       A-laget        |          5           |    {1, 2, 3, 4, 6}    |
+|    Red lightning     |          3           |       {1, 2, 3}       |
+|   Snakes on a Kane   |          3           |       {8, 9, 7}       |
+|       Team TH        |          2           |         {8, 9}        |
++----------------------+----------------------+-----------------------+
+
+
+ÅRETS CHIPP-KONGE
+Mest poeng på chips
++----------------------+--------------------------------------+-------------------+-----------------------+
+|         Team         | Total chip points excluding wildcard | Total chip points | Total wildcard points |
++----------------------+--------------------------------------+-------------------+-----------------------+
+| Overtenningsklubben  |                 315                  |        444        |          129          |
+|       PC Bears       |                 308                  |        393        |           85          |
+|    Red lightning     |                 295                  |        409        |          114          |
+|     Soccer MC’s      |                 293                  |        404        |          111          |
+|       A-laget        |                 266                  |        414        |          148          |
+| La kula gjøre jobben |                 255                  |        401        |          146          |
+|       Team TH        |                 249                  |        340        |           91          |
+|  Bare ikke ballene   |                 218                  |        326        |          108          |
+|   Snakes on a Kane   |                 199                  |        357        |          158          |
++----------------------+--------------------------------------+-------------------+-----------------------+
+
+
+ÅRETS PIMP
+Mest hits, best hits (samme gameweek)
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+|         Team         | Total pts earned on hits | Avg. pts earned per hit | Avg. pts for players IN with hits | Avg. pts for players OUT with hits | Total transfers | Total transfer hits | Total transfer cost | Avg. cost per transfer |
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+|       PC Bears       |            24            |    2.1818181818181817   |         7.636363636363637         |         1.4545454545454546         |        70       |          11         |          44         |   0.6285714285714286   |
+| La kula gjøre jobben |            24            |           4.8           |                10.4               |                1.6                 |        39       |          5          |          20         |   0.5128205128205128   |
+| Overtenningsklubben  |            13            |    2.1666666666666665   |         7.833333333333333         |         1.6666666666666667         |        43       |          6          |          24         |   0.5581395348837209   |
+|       Team TH        |            4             |           4.0           |                9.0                |                1.0                 |        38       |          1          |          4          |  0.10526315789473684   |
+|   Snakes on a Kane   |            0             |            0            |                 -                 |                 -                  |        31       |          0          |          0          |          0.0           |
+|  Bare ikke ballene   |            -2            |   -0.18181818181818182  |         5.454545454545454         |         1.6363636363636365         |        52       |          11         |          44         |   0.8461538461538461   |
+|       A-laget        |            -5            |           -1.0          |                6.2                |                3.2                 |        42       |          5          |          20         |  0.47619047619047616   |
+|    Red lightning     |            -6            |   -0.5454545454545454   |         5.636363636363637         |         2.1818181818181817         |        67       |          11         |          44         |   0.6567164179104478   |
+|     Soccer MC’s      |           -16            |   -2.2857142857142856   |         3.4285714285714284        |         1.7142857142857142         |        50       |          7          |          28         |          0.56          |
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+
+
+ÅRETS HIGHSCORE
+Mest poeng på én gameweek
++----------------------+-----------------+---------------+-----------------+
+|         Team         | Gameweek points | Gameweek rank | Gameweek number |
++----------------------+-----------------+---------------+-----------------+
+| Overtenningsklubben  |       140       |     29859     |        34       |
+|    Red lightning     |       128       |     368110    |        29       |
+|       PC Bears       |       125       |     437453    |        29       |
+|       PC Bears       |       121       |      594      |        20       |
+| La kula gjøre jobben |       118       |     542995    |        34       |
+| Overtenningsklubben  |       117       |     719073    |        29       |
+|     Soccer MC’s      |       116       |     766670    |        29       |
+|       A-laget        |       115       |     712442    |        34       |
+|     Soccer MC’s      |       114       |     467470    |        36       |
+|       PC Bears       |       112       |     921300    |        34       |
++----------------------+-----------------+---------------+-----------------+
+
+
+ÅRETS LOWSCORE
+Lavest poeng på én gameweek
++----------------------+-----------------+---------------+-----------------+
+|         Team         | Gameweek points | Gameweek rank | Gameweek number |
++----------------------+-----------------+---------------+-----------------+
+|       PC Bears       |        19       |    11276170   |        35       |
+| Overtenningsklubben  |        23       |    10248067   |        38       |
+| La kula gjøre jobben |        25       |    9881022    |        38       |
+| Overtenningsklubben  |        26       |    10415546   |        35       |
+|       Team TH        |        27       |    6679778    |        28       |
+|    Red lightning     |        30       |    9546289    |        35       |
+|   Snakes on a Kane   |        30       |    9764357    |        8        |
+|   Snakes on a Kane   |        30       |    8697327    |        38       |
+| La kula gjøre jobben |        33       |    9462883    |        4        |
+|     Soccer MC’s      |        34       |    7646562    |        35       |
++----------------------+-----------------+---------------+-----------------+
+
+
+ÅRETS RUNDBRENNER
+Managerne som har vært innom flest unike spillere
++----------------------+----------------------------+
+|         Team         | Number of distinct players |
++----------------------+----------------------------+
+|  Bare ikke ballene   |             72             |
+|       Team TH        |             71             |
+|       PC Bears       |             70             |
+|    Red lightning     |             68             |
+|     Soccer MC’s      |             67             |
+|       A-laget        |             67             |
+| La kula gjøre jobben |             66             |
+| Overtenningsklubben  |             64             |
+|   Snakes on a Kane   |             60             |
++----------------------+----------------------------+
+
+
+ÅRETS SPÅMANN
+Mest poeng fra spillere byttet inn samme runde
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+|         Team         | Total points from players transferred in (the same gw) | Average points from players transferred in (the same gw) |
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+|    Red lightning     |                          431                           |                    5.2560975609756095                    |
+|       PC Bears       |                          406                           |                    4.561797752808989                     |
+|     Soccer MC’s      |                          392                           |                    4.962025316455696                     |
+|       Team TH        |                          379                           |                    5.121621621621622                     |
+| La kula gjøre jobben |                          333                           |                    5.045454545454546                     |
+| Overtenningsklubben  |                          311                           |                         4.859375                         |
+|       A-laget        |                          300                           |                    4.545454545454546                     |
+|   Snakes on a Kane   |                          299                           |                    4.983333333333333                     |
+|  Bare ikke ballene   |                          287                           |                    3.8266666666666667                    |
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+
+ÅRETS KARMA
+Mest poeng fra spillere byttet UT samme runde
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+|         Team         | Total points from players transferred out (the same gw) | Average points from players transferred out (the same gw) |
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+|       PC Bears       |                           396                           |                          3.09375                          |
+|    Red lightning     |                           298                           |                     3.136842105263158                     |
+|     Soccer MC’s      |                           203                           |                     2.2808988764044944                    |
+| La kula gjøre jobben |                           200                           |                     2.857142857142857                     |
+|   Snakes on a Kane   |                           184                           |                     2.830769230769231                     |
+|       Team TH        |                           183                           |                     2.3164556962025316                    |
+| Overtenningsklubben  |                           175                           |                     2.611940298507463                     |
+|  Bare ikke ballene   |                           165                           |                     2.1153846153846154                    |
+|       A-laget        |                           122                           |                     1.6944444444444444                    |
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+
+ÅRETS VANILLA (ICE)
+Mest vaniljepoeng, ie. poengtotal ekskludert ekstra kapteinspoeng (inkl. TC), auto-subs og benkespillere fra bench boost
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+|         Team         | Total vanilla points | Total points | Extra captain points | Total auto sub points | Total bench boost bench points |
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+|       PC Bears       |         1809         |     2521     |         654          |           20          |               38               |
+|    Red lightning     |         1769         |     2522     |         688          |           39          |               26               |
+|       A-laget        |         1729         |     2473     |         702          |           38          |               4                |
+|     Soccer MC’s      |         1715         |     2480     |         692          |           51          |               22               |
+| La kula gjøre jobben |         1662         |     2353     |         640          |           37          |               14               |
+|   Snakes on a Kane   |         1622         |     2312     |         612          |           58          |               20               |
+|  Bare ikke ballene   |         1621         |     2365     |         662          |           76          |               6                |
+| Overtenningsklubben  |         1617         |     2348     |         678          |           35          |               18               |
+|       Team TH        |         1525         |     2297     |         700          |           51          |               21               |
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+
+
+FERDIG!
