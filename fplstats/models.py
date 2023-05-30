@@ -1,8 +1,9 @@
 import datetime as dt
-from pydantic import BaseModel
-from typing import List, Dict, Optional
+from typing import Dict, List, Optional
 
-from fplstats.enums import Position, Chip
+from pydantic import BaseModel
+
+from fplstats.enums import Chip, Position
 
 
 class PlayerHistory(BaseModel):
@@ -127,6 +128,9 @@ class Gameweek(BaseModel):
     name: str
     finished: bool
     is_current: bool
+    highest_score: int
+    average_entry_score: int
+
 
 
 class LeagueStandingItem(BaseModel):
