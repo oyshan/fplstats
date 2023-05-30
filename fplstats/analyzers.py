@@ -366,7 +366,7 @@ class LeagueAnalyzer(object):
 
         return owned_by_count / users_count
 
-    def get_all_statistics(self: T):
+    def get_all_statistics(self: T):  # noqa: C901
         """
         Get (and print out) all statistics for loaded league
         up to latest finished/ongoing gameweek
@@ -529,7 +529,7 @@ class LeagueAnalyzer(object):
         if not self.disable_prompt:
             input("\n\nTrykk Enter for neste statistikk\n\n")
 
-        print("\n\nÅRETS ANKER")
+        print("\n\nÅRETS STABILE")
         print("Minst differanse mellom beste og verste GW")
         if not self.disable_prompt:
             input("Trykk Enter for å se resultatet")
@@ -731,7 +731,7 @@ class LeagueAnalyzer(object):
 
         print("\n\nFERDIG!")
 
-    def get_gw1_picks_standings(self: T, print_result=True):
+    def get_gw1_picks_standings(self: T, print_result=True):  # noqa: C901
         """
         Calculate total for gw1 picks for each user,
         including vice captain and auto-subs points
@@ -1507,6 +1507,13 @@ class LeagueAnalyzer(object):
             highest_gw_points = 0
             lowest_gw_points = 999999
             for user_gw in user.history:
+
+                # Skip "empty" gameweeks, i.e. gameweeks without any matches,
+                # as that will result in everyone getting 0 points
+                gw = self.gameweeks[user_gw.event - 1]
+                if gw.highest_score == 0:
+                    continue
+
                 if user_gw.rank is None:
                     # non-finished gameweek
                     continue
@@ -1930,6 +1937,13 @@ class LeagueAnalyzer(object):
             highest_gw_rank = 99999999999999999
             highest_overall_rank = 99999999999999999
             for user_gw in user.history:
+
+                # Skip "empty" gameweeks, i.e. gameweeks without any matches,
+                # as that will result in everyone getting a gw rank of 1
+                gw = self.gameweeks[user_gw.event - 1]
+                if gw.highest_score == 0:
+                    continue
+
                 if user_gw.rank and user_gw.rank < highest_gw_rank:
                     highest_gw_rank = user_gw.rank
 
@@ -2000,7 +2014,7 @@ class LeagueAnalyzer(object):
 
         return results
 
-    def get_best_differential(self: T, max_ownership_share=0.3, print_result=True):
+    def get_best_differential(self: T, max_ownership_share=0.3, print_result=True):  # noqa: C901
         """
         Finds best differential player picks
             * by total diff points
@@ -2574,6 +2588,12 @@ class LeagueAnalyzer(object):
         results: List[dict] = []
         for user in self.users.values():
             for user_gw in user.history:
+                # Skip "empty" gameweeks, i.e. gameweeks without any matches,
+                # as that will result in everyone getting a 0 gw points
+                gw = self.gameweeks[user_gw.event - 1]
+                if gw.highest_score == 0:
+                    continue
+
                 if user_gw.rank is None:
                     # non-finished gameweek - skip
                     continue
