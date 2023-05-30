@@ -73,11 +73,11 @@ You could also start your own python shell and get the statistics you are intere
 
 ```
 python
->>> from fpl-stats.models import FPLStatistics
+>>> from fplstats.analyzers import LeagueAnalyzer
 >>> # Init
->>> fpl_stats = FPLStatistics(season=<season_id>, league=<league_id>, gameweek=<gameweek_number>)
+>>> league_analyzer = LeagueAnalyzer(<season_id>, <league_id>)
 >>> # Get the statistics you want, e.g.
->>> fpl_stats.get_captain_hindsight()
+>>> league_analyzer.get_captain_hindsight()
 TEAM          CAPTAIN POINTS
 Soccer MC's   1413
 CHANGE NAME   1337
