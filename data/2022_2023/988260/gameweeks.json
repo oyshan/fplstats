@@ -1556,7 +1556,7 @@
     "deadline_time_epoch": 1683972000,
     "deadline_time_game_offset": 0,
     "highest_score": 180,
-    "is_previous": true,
+    "is_previous": false,
     "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
@@ -1601,8 +1601,8 @@
     "deadline_time_epoch": 1684576800,
     "deadline_time_game_offset": 0,
     "highest_score": 128,
-    "is_previous": false,
-    "is_current": true,
+    "is_previous": true,
+    "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
@@ -1639,25 +1639,45 @@
     "id": 38,
     "name": "Gameweek 38",
     "deadline_time": "2023-05-28T14:00:00Z",
-    "average_entry_score": 0,
-    "finished": false,
-    "data_checked": false,
-    "highest_scoring_entry": null,
+    "average_entry_score": 40,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 11438980,
     "deadline_time_epoch": 1685282400,
     "deadline_time_game_offset": 0,
-    "highest_score": null,
+    "highest_score": 121,
     "is_previous": false,
-    "is_current": false,
-    "is_next": true,
+    "is_current": true,
+    "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
-    "chip_plays": [],
-    "most_selected": null,
-    "most_transferred_in": null,
-    "top_element": null,
-    "top_element_info": null,
-    "transfers_made": 0,
-    "most_captained": null,
-    "most_vice_captained": null
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 358387
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 110647
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 141501
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 172659
+      }
+    ],
+    "most_selected": 318,
+    "most_transferred_in": 169,
+    "top_element": 427,
+    "top_element_info": {
+      "id": 427,
+      "points": 16
+    },
+    "transfers_made": 8204230,
+    "most_captained": 318,
+    "most_vice_captained": 318
   }
 ]
