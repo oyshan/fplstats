@@ -32,11 +32,14 @@ Before analyzing, you need to fetch data. To fetch data for the current season u
 python fpl-stats/scripts/fetch_league.py \
     --league=<fpl_league_id> \
     --email=<fpl_username> \
+    --cookie=<fpl_cookie> \
     [--password=<fpl_password>] \
     [--force-fetch-all] \
     [--fetch-live] \
     [> <output_file>]
 ```
+
+The cookie should be extracted from the browser after logging in to the FPL website (copy/paste the `document.cookie` value from the dev tool console after logging in) which should increase the success chance of authenticating.
 
 The password could either be provided as an argument, or it will be prompted.  
 If you want to fetch everything regardless of what data you already have, add the `--force-fetch-all` argument flag.  

@@ -128,9 +128,8 @@ class Gameweek(BaseModel):
     name: str
     finished: bool
     is_current: bool
-    highest_score: int
+    highest_score: Optional[int]
     average_entry_score: int
-
 
 
 class LeagueStandingItem(BaseModel):

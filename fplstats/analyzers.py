@@ -398,7 +398,7 @@ class LeagueAnalyzer(object):
         if not self.disable_prompt:
             input("\n\nTrykk Enter for neste statistikk\n\n")
 
-        print("ÅRETS CAPTAIN FORESIGHT")
+        print("\n\nÅRETS CAPTAIN FORESIGHT")
         print("Spillerne med flest kapteinspoeng")
         print(
             'Her teller kun "ekstra" poeng spilleren gir for å være kaptein, ie. 1 x for normal kaptein og 2 x for triple'

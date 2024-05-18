@@ -59,7 +59,7 @@ def write_file(obj, file_name: str):
 
 
 async def fetch_league_data(  # noqa: C901
-    email: str, password: str, league_id: int, force_fetch_all=False, fetch_live=False
+    email: str, password: str, cookie: str, league_id: int, force_fetch_all=False, fetch_live=False
 ):
     """
     Fetches league data for a given league up to the
@@ -87,7 +87,7 @@ async def fetch_league_data(  # noqa: C901
 
         # Login
         print("Logging in")
-        await fpl.login(email, password)
+        await fpl.login(email, password, cookie)
 
         # Get league
         print("\nGetting league:", league_id)
@@ -374,6 +374,9 @@ if __name__ == "__main__":
         "--password", "-p", help="FPL password", type=str, required=False
     )
     parser.add_argument(
+        "--cookie", "-c", help="FPL Cookie extracted from the user's browser which increases success chance when trying to log in", type=str, required=True
+    )
+    parser.add_argument(
         "--force-fetch-all", help="Include to force fetch all data", action="store_true"
     )
     parser.add_argument(
@@ -393,6 +396,6 @@ if __name__ == "__main__":
     # Fetch league data
     asyncio.run(
         fetch_league_data(
-            email, password, args.league, args.force_fetch_all, args.fetch_live
+            email, password, args.cookie, args.league, args.force_fetch_all, args.fetch_live
         )
     )
