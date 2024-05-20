@@ -1648,7 +1648,7 @@
     "deadline_time_epoch": 1714757400,
     "deadline_time_game_offset": 0,
     "highest_score": 157,
-    "is_previous": true,
+    "is_previous": false,
     "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
@@ -1695,8 +1695,8 @@
     "deadline_time_epoch": 1715421600,
     "deadline_time_game_offset": 0,
     "highest_score": 174,
-    "is_previous": false,
-    "is_current": true,
+    "is_previous": true,
+    "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
@@ -1735,26 +1735,46 @@
     "name": "Gameweek 38",
     "deadline_time": "2024-05-19T13:30:00Z",
     "release_time": null,
-    "average_entry_score": 0,
-    "finished": false,
-    "data_checked": false,
-    "highest_scoring_entry": null,
+    "average_entry_score": 52,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 221255,
     "deadline_time_epoch": 1716125400,
     "deadline_time_game_offset": 0,
-    "highest_score": null,
+    "highest_score": 154,
     "is_previous": false,
-    "is_current": false,
-    "is_next": true,
+    "is_current": true,
+    "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
-    "ranked_count": 0,
-    "chip_plays": [],
-    "most_selected": null,
-    "most_transferred_in": null,
-    "top_element": null,
-    "top_element_info": null,
-    "transfers_made": 0,
-    "most_captained": null,
-    "most_vice_captained": null
+    "ranked_count": 10838503,
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 793326
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 112447
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 128789
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 379636
+      }
+    ],
+    "most_selected": 355,
+    "most_transferred_in": 6,
+    "top_element": 232,
+    "top_element_info": {
+      "id": 232,
+      "points": 20
+    },
+    "transfers_made": 7278097,
+    "most_captained": 355,
+    "most_vice_captained": 362
   }
 ]
