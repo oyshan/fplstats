@@ -14,7 +14,7 @@ brew install pyenv
 Install and enable Python v13
 ```
 pyenv install 3.13
-peynv global 3.13
+pyenv global 3.13
 ```
 
 Create virtual env
