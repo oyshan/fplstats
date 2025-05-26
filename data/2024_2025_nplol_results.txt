@@ -1,0 +1,750 @@
+2024_2025-statistikk for nplol til og med gameweek 38 (finished)
+
+
+
+ÅRETS VISJONÆRE
+What if-tabell for GW1-picks
++----------------------+--------------+----------+-----------+-----------------+-------------------------------------------------------------------+
+|         Team         | Total points | C points | VC points | Auto-sub points |                             GW1 picks                             |
++----------------------+--------------+----------+-----------+-----------------+-------------------------------------------------------------------+
+|       PC Bears       |     2093     |   344    |     14    |        78       |                            Raya (142)                             |
+|                      |              |          |           |                 |            Quansah (9) Mykolenko (121) Gvardiol (153)             |
+|                      |              |          |           |                 |    Smith Rowe (114) M.Salah(C) (344) Gordon (124) Rogers (161)    |
+|                      |              |          |           |                 |             Havertz (97) Haaland(VC) (181) Isak (211)             |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |             Lis (0) Carvalho (26) Pau (52) Barco (0)              |
+|                      |              |          |           |                 |                                                                   |
+| La kula gjøre jobben |     1972     |   211    |     22    |        43       |                           Flekken (138)                           |
+|                      |              |          |           |                 |            Pedro Porro (98) Gvardiol (153) Burn (115)             |
+|                      |              |          |           |                 |   B.Fernandes (174) Palmer (214) Luis Díaz (183) Saka(VC) (127)   |
+|                      |              |          |           |                 |             Havertz (97) Isak(C) (211) Watkins (186)              |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |        Turner (0) Barco (0) Harwood-Bellis (33) Winks (10)        |
+|                      |              |          |           |                 |                                                                   |
+|     Redlightning     |     1970     |   211    |     21    |        67       |                          Henderson (135)                          |
+|                      |              |          |           |                 |         Gvardiol (153) Burn (115) Alexander-Arnold (148)          |
+|                      |              |          |           |                 |      Nkunku (60) M.Salah (344) Gordon (124) Smith Rowe (114)      |
+|                      |              |          |           |                 |            Muniz (86) Haaland(VC) (181) Isak(C) (211)             |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |        Valdimarsson (0) Winks (24) Faes (29) Johnson (14)         |
+|                      |              |          |           |                 |                                                                   |
+|       A-laget        |     1967     |   181    |     38    |       124       |                            Areola (69)                            |
+|                      |              |          |           |                 |           Alexander-Arnold (148) Hall (102) Muñoz (142)           |
+|                      |              |          |           |                 | Diogo J. (87) Gibbs-White (154) J.Murphy (159) M.Salah(VC) (344)  |
+|                      |              |          |           |                 |          Isak (211) Haaland(C) (181) Calvert-Lewin (63)           |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |       Fabianski (36) Smith Rowe (81) Barco (0) Greaves (7)        |
+|                      |              |          |           |                 |                                                                   |
+|     Scotty knows     |     1907     |   181    |     25    |        75       |                          Pickford (158)                           |
+|                      |              |          |           |                 |        Alexander-Arnold (148) Pedro Porro (98) Konsa (103)        |
+|                      |              |          |           |                 |  B.Fernandes (174) Johnson (137) Smith Rowe (114) Ødegaard (116)  |
+|                      |              |          |           |                 |           Watkins(VC) (186) Haaland(C) (181) Isak (211)           |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |          Turner (0) B.Soumaré (32) Faes (34) Johnson (9)          |
+|                      |              |          |           |                 |                                                                   |
+| Overtenningsklubben  |     1895     |   181    |     14    |       111       |                            Raya (142)                             |
+|                      |              |          |           |                 |            Saliba (130) Pedro Porro (98) Andersen (51)            |
+|                      |              |          |           |                 |        Eze (148) Palmer (214) Rogers (161) Saka(VC) (127)         |
+|                      |              |          |           |                 |           Haaland(C) (181) João Pedro (126) Isak (211)            |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |            Turner (0) Konsa (92) Winks (19) Barco (0)             |
+|                      |              |          |           |                 |                                                                   |
+|   Low Rank Legends   |     1883     |   211    |     23    |        97       |                          Pickford (158)                           |
+|                      |              |          |           |                 |            Gvardiol (153) Davis (52) Pedro Porro (98)             |
+|                      |              |          |           |                 |    Andreas (81) Palmer (214) Eze (148) Saka (127) Gordon (124)    |
+|                      |              |          |           |                 |                  Watkins(VC) (186) Isak(C) (211)                  |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |       Areola (0) João Pedro (0) Trippier (66) Castagne (31)       |
+|                      |              |          |           |                 |                                                                   |
+|       Team TH        |     1812     |   181    |     22    |        23       |                          Henderson (135)                          |
+|                      |              |          |           |                 |      Gvardiol (153) Saliba (130) Faes (55) Pedro Porro (98)       |
+|                      |              |          |           |                 |    Diogo J. (87) B.Fernandes(VC) (174) Eze (148) Palmer (214)     |
+|                      |              |          |           |                 |                    Haaland(C) (181) Isak (211)                    |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |            Turner (0) Barco (0) Ladapo (0) Winks (23)             |
+|                      |              |          |           |                 |                                                                   |
+|     Soccer MC’s      |     1758     |   211    |     21    |       109       |                          Henderson (135)                          |
+|                      |              |          |           |                 |               Quansah (9) Hall (102) Gabriel (117)                |
+|                      |              |          |           |                 |       Eze (148) B.Fernandes (174) Diogo J. (87) Saka (127)        |
+|                      |              |          |           |                 |         João Pedro (126) Isak(C) (211) Haaland(VC) (181)          |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |      Fabianski (0) Barco (0) Nkunku (56) Harwood-Bellis (53)      |
+|                      |              |          |           |                 |                                                                   |
+|   team sisteplass    |     1718     |   211    |     22    |       120       |                          Henderson (135)                          |
+|                      |              |          |           |                 |        Alexander-Arnold (148) Pedro Porro (98) Quansah (9)        |
+|                      |              |          |           |                 |  Eze (148) Saka(VC) (127) Nkunku (60) Diogo J. (87) Rogers (161)  |
+|                      |              |          |           |                 |                    Haaland (181) Isak(C) (211)                    |
+|                      |              |          |           |                 |                                 -                                 |
+|                      |              |          |           |                 |        Valdimarsson (0) Muniz (0) Johnson (29) Konsa (91)         |
+|                      |              |          |           |                 |                                                                   |
++----------------------+--------------+----------+-----------+-----------------+-------------------------------------------------------------------+
+
+
+ÅRETS CAPTAIN FORESIGHT
+Spillerne med flest kapteinspoeng
+Her teller kun "ekstra" poeng spilleren gir for å være kaptein, ie. 1 x for normal kaptein og 2 x for triple
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+|         Team         | Total captain points | Total captain points when VC stepped in | Total gameweeks where VC stepped in | Gameweeks without captain/VC |
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+|       A-laget        |         780          |                    26                   |                  1                  |              0               |
+|       Team TH        |         754          |                    0                    |                  0                  |              0               |
+| La kula gjøre jobben |         748          |                    0                    |                  0                  |              0               |
+|       PC Bears       |         744          |                    0                    |                  0                  |              0               |
+| Overtenningsklubben  |         712          |                    0                    |                  0                  |              0               |
+|     Redlightning     |         704          |                    0                    |                  0                  |              0               |
+|     Soccer MC’s      |         660          |                    0                    |                  0                  |              0               |
+|   team sisteplass    |         628          |                    0                    |                  0                  |              0               |
+|   Low Rank Legends   |         488          |                    0                    |                  0                  |              0               |
+|     Scotty knows     |         406          |                    20                   |                  4                  |              2               |
++----------------------+----------------------+-----------------------------------------+-------------------------------------+------------------------------+
+
+
+ÅRETS CAPTAIN HINDSIGHT
+Spillerne med flest poeng UTEN kapteinspoeng
++----------------------+---------------------------------------+
+|         Team         | Total points excluding captain points |
++----------------------+---------------------------------------+
+|     Soccer MC’s      |                  1752                 |
+|     Redlightning     |                  1711                 |
+|       PC Bears       |                  1696                 |
+|   Low Rank Legends   |                  1682                 |
+|       Team TH        |                  1670                 |
+| La kula gjøre jobben |                  1662                 |
+|       A-laget        |                  1647                 |
+| Overtenningsklubben  |                  1620                 |
+|   team sisteplass    |                  1589                 |
+|     Scotty knows     |                  1532                 |
++----------------------+---------------------------------------+
+
+
+ÅRETS LENGSTE LEDER
+Spillerne som har ledet ligaen flest gameweeks
++----------------------+------------------------------------------+
+|         Team         | Total number of gameweeks in first place |
++----------------------+------------------------------------------+
+| Overtenningsklubben  |                    12                    |
+|       Team TH        |                    11                    |
+|       PC Bears       |                    9                     |
+| La kula gjøre jobben |                    4                     |
+|     Redlightning     |                    2                     |
+|       A-laget        |                    0                     |
+|     Soccer MC’s      |                    0                     |
+|   team sisteplass    |                    0                     |
+|   Low Rank Legends   |                    0                     |
+|     Scotty knows     |                    0                     |
++----------------------+------------------------------------------+
+
+
+ÅRETS LENGSTE BALLETAK
+Spillerne som har vært på sisteplass i ligaen flest gameweeks
++----------------------+-----------------------------------------+
+|         Team         | Total number of gameweeks in last place |
++----------------------+-----------------------------------------+
+|     Scotty knows     |                    22                   |
+|   Low Rank Legends   |                    16                   |
+| La kula gjøre jobben |                    0                    |
+|       PC Bears       |                    0                    |
+|       Team TH        |                    0                    |
+|     Redlightning     |                    0                    |
+|       A-laget        |                    0                    |
+|     Soccer MC’s      |                    0                    |
+| Overtenningsklubben  |                    0                    |
+|   team sisteplass    |                    0                    |
++----------------------+-----------------------------------------+
+
+
+ÅRETS STØRSTE LEDER
+Lagene som har ledet med flest poeng ligaen
++----------------------+-------------------+----------+
+|         Team         | Biggest point gap | Gameweek |
++----------------------+-------------------+----------+
+|       Team TH        |         50        |    29    |
+| Overtenningsklubben  |         45        |    10    |
+| Overtenningsklubben  |         43        |    9     |
+| Overtenningsklubben  |         38        |    14    |
+| Overtenningsklubben  |         37        |    13    |
+| Overtenningsklubben  |         34        |    11    |
+| Overtenningsklubben  |         32        |    8     |
+| La kula gjøre jobben |         26        |    33    |
+|       Team TH        |         23        |    18    |
+|       PC Bears       |         21        |    3     |
++----------------------+-------------------+----------+
+
+
+ÅRETS STØRSTE BALLETAK
+Lagene som har ligget bakerst med flest poeng ligaen
++--------------+-------------------+----------+
+|     Team     | Biggest point gap | Gameweek |
++--------------+-------------------+----------+
+| Scotty knows |        -235       |    37    |
+| Scotty knows |        -232       |    38    |
+| Scotty knows |        -225       |    35    |
+| Scotty knows |        -223       |    36    |
+| Scotty knows |        -219       |    33    |
+| Scotty knows |        -214       |    32    |
+| Scotty knows |        -209       |    34    |
+| Scotty knows |        -163       |    31    |
+| Scotty knows |        -151       |    28    |
+| Scotty knows |        -139       |    30    |
++--------------+-------------------+----------+
+
+
+ÅRETS GULLSTØVEL
+Spillerne som har scoret flest mål
++----------------------+--------------+
+|         Team         | Goals scored |
++----------------------+--------------+
+|       PC Bears       |     128      |
+|     Redlightning     |     123      |
+|       A-laget        |     123      |
+|       Team TH        |     119      |
+| Overtenningsklubben  |     118      |
+|     Soccer MC’s      |     114      |
+| La kula gjøre jobben |     113      |
+|   team sisteplass    |     111      |
+|   Low Rank Legends   |     105      |
+|     Scotty knows     |      96      |
++----------------------+--------------+
+
+
+ÅRETS ASSISTKONGE
+Spillerne som har flest assists
++----------------------+---------+
+|         Team         | Assists |
++----------------------+---------+
+| La kula gjøre jobben |    84   |
+|     Soccer MC’s      |    84   |
+|     Redlightning     |    78   |
+| Overtenningsklubben  |    77   |
+|       PC Bears       |    74   |
+|       A-laget        |    74   |
+|       Team TH        |    72   |
+|   team sisteplass    |    68   |
+|   Low Rank Legends   |    68   |
+|     Scotty knows     |    60   |
++----------------------+---------+
+
+
+ÅRETS MÅLRETTEDE
+Spillerne som har flest mål+assists
++----------------------+-------------------+
+|         Team         | Goal involvements |
++----------------------+-------------------+
+|       PC Bears       |        202        |
+|     Redlightning     |        201        |
+|     Soccer MC’s      |        198        |
+| La kula gjøre jobben |        197        |
+|       A-laget        |        197        |
+| Overtenningsklubben  |        195        |
+|       Team TH        |        191        |
+|   team sisteplass    |        179        |
+|   Low Rank Legends   |        173        |
+|     Scotty knows     |        156        |
++----------------------+-------------------+
+
+
+ÅRETS FORSVARSLØSE
+Spillerne som har flest mål imot fra spillende keepere og forsvarere
++----------------------+----------------------+
+|         Team         | Total goals conceded |
++----------------------+----------------------+
+| Overtenningsklubben  |         219          |
+| La kula gjøre jobben |         215          |
+|       Team TH        |         214          |
+|   team sisteplass    |         207          |
+|     Scotty knows     |         207          |
+|   Low Rank Legends   |         203          |
+|     Redlightning     |         190          |
+|       A-laget        |         187          |
+|       PC Bears       |         177          |
+|     Soccer MC’s      |         170          |
++----------------------+----------------------+
+
+
+ÅRETS SKUDDSIKRE
+Spillerne som har flest clean sheets fra spillende keepere og forsvarere
++----------------------+-------------------------------+------------------------------------------+
+|         Team         | Total clean sheets (gk + def) | Total clean sheet points (gk, def + mid) |
++----------------------+-------------------------------+------------------------------------------+
+|     Redlightning     |               56              |                   268                    |
+|     Soccer MC’s      |               56              |                   272                    |
+|       Team TH        |               55              |                   267                    |
+|       PC Bears       |               50              |                   250                    |
+|       A-laget        |               50              |                   246                    |
+| La kula gjøre jobben |               49              |                   253                    |
+|   Low Rank Legends   |               49              |                   242                    |
+| Overtenningsklubben  |               44              |                   223                    |
+|   team sisteplass    |               42              |                   209                    |
+|     Scotty knows     |               39              |                   193                    |
++----------------------+-------------------------------+------------------------------------------+
+
+
+ÅRETS KEEPER
+Spillerne som har flest strafferedninger
++----------------------+-----------------------+------------------------------+
+|         Team         | Total penalties saved | Total penalties saved points |
++----------------------+-----------------------+------------------------------+
+|       Team TH        |           1           |              5               |
+|     Soccer MC’s      |           1           |              5               |
+| Overtenningsklubben  |           1           |              5               |
+| La kula gjøre jobben |           0           |              0               |
+|       PC Bears       |           0           |              0               |
+|     Redlightning     |           0           |              0               |
+|       A-laget        |           0           |              0               |
+|   team sisteplass    |           0           |              0               |
+|   Low Rank Legends   |           0           |              0               |
+|     Scotty knows     |           0           |              0               |
++----------------------+-----------------------+------------------------------+
+
+
+ÅRETS FORMSPILLER
+Spillerne med høyest total ila. fem etterfølgende runder
++----------------------+--------------+----------------+---------------+-------------+
+|         Team         | Total points | Average points | From gameweek | To gameweek |
++----------------------+--------------+----------------+---------------+-------------+
+| La kula gjøre jobben |     431      |      86.2      |       24      |      28     |
+|       PC Bears       |     424      |      84.8      |       23      |      27     |
+|     Redlightning     |     421      |      84.2      |       21      |      25     |
+|     Soccer MC’s      |     419      |      83.8      |       23      |      27     |
+|       Team TH        |     404      |      80.8      |       24      |      28     |
+|   team sisteplass    |     404      |      80.8      |       24      |      28     |
+|       A-laget        |     402      |      80.4      |       24      |      28     |
+| Overtenningsklubben  |     397      |      79.4      |       24      |      28     |
+|   Low Rank Legends   |     382      |      76.4      |       24      |      28     |
+|     Scotty knows     |     328      |      65.6      |       1       |      5      |
++----------------------+--------------+----------------+---------------+-------------+
+
+
+ÅRETS UTE-AV-FORMSPILLER
+Spillerne med lavest total ila. fem etterfølgende runder
++----------------------+--------------+----------------+---------------+-------------+
+|         Team         | Total points | Average points | From gameweek | To gameweek |
++----------------------+--------------+----------------+---------------+-------------+
+|     Scotty knows     |     205      |      41.0      |       6       |      10     |
+|       PC Bears       |     211      |      42.2      |       6       |      10     |
+| La kula gjøre jobben |     216      |      43.2      |       34      |      38     |
+|   team sisteplass    |     216      |      43.2      |       8       |      12     |
+|       Team TH        |     219      |      43.8      |       6       |      10     |
+|     Redlightning     |     225      |      45.0      |       8       |      12     |
+|       A-laget        |     226      |      45.2      |       6       |      10     |
+|     Soccer MC’s      |     233      |      46.6      |       7       |      11     |
+|   Low Rank Legends   |     233      |      46.6      |       10      |      14     |
+| Overtenningsklubben  |     244      |      48.8      |       7       |      11     |
++----------------------+--------------+----------------+---------------+-------------+
+
+
+ÅRETS STABILE
+Minst differanse mellom beste og verste GW
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+|         Team         | Lowest range | Highest GW points | Lowest GW points | Total points | Average gw points  |
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+|     Scotty knows     |      56      |         84        |        28        |     1938     |        51.0        |
+| La kula gjøre jobben |      75      |        103        |        28        |     2410     | 63.421052631578945 |
+|       Team TH        |      75      |         97        |        22        |     2424     | 63.78947368421053  |
+|       A-laget        |      76      |        114        |        38        |     2427     | 63.86842105263158  |
+|   Low Rank Legends   |      84      |        116        |        32        |     2170     | 57.10526315789474  |
+| Overtenningsklubben  |      85      |        113        |        28        |     2332     | 61.36842105263158  |
+|       PC Bears       |      90      |        114        |        24        |     2440     | 64.21052631578948  |
+|     Soccer MC’s      |      90      |        124        |        34        |     2412     | 63.473684210526315 |
+|   team sisteplass    |      94      |        122        |        28        |     2217     |  58.3421052631579  |
+|     Redlightning     |     111      |        139        |        28        |     2415     | 63.55263157894737  |
++----------------------+--------------+-------------------+------------------+--------------+--------------------+
+
+
+ÅRETS BENKESLITER
+Spillerne med mest poeng på benken (eksklusiv autoinnbyttere)
++----------------------+--------------------+
+|         Team         | Total bench points |
++----------------------+--------------------+
+| Overtenningsklubben  |        313         |
+|   Low Rank Legends   |        302         |
+| La kula gjøre jobben |        285         |
+|       Team TH        |        280         |
+|     Redlightning     |        264         |
+|       A-laget        |        254         |
+|     Soccer MC’s      |        254         |
+|   team sisteplass    |        189         |
+|     Scotty knows     |        134         |
+|       PC Bears       |         83         |
++----------------------+--------------------+
+
+
+ÅRETS SUPERINNBYTTER
+Spillerne med mest autoinnbytterpoeng
++----------------------+-----------------------+
+|         Team         | Total auto-sub points |
++----------------------+-----------------------+
+|   team sisteplass    |           99          |
+|   Low Rank Legends   |           94          |
+| Overtenningsklubben  |           55          |
+|       A-laget        |           51          |
+|     Soccer MC’s      |           45          |
+|       Team TH        |           38          |
+|     Scotty knows     |           38          |
+|     Redlightning     |           37          |
+|       PC Bears       |           35          |
+| La kula gjøre jobben |           32          |
++----------------------+-----------------------+
+
+
+ÅRETS STYGGE SPILLER
+Spillerne med flest minuspoeng for rødt+gult kort (fra spillende spillere)
++----------------------+-------------------+-----------------+--------------------+-------------+
+|         Team         | Total card points | Total red cards | Total yellow cards | Total cards |
++----------------------+-------------------+-----------------+--------------------+-------------+
+|   team sisteplass    |        -53        |        2        |         47         |      49     |
+|   Low Rank Legends   |        -53        |        1        |         50         |      51     |
+|       Team TH        |        -52        |        2        |         46         |      48     |
+|     Soccer MC’s      |        -52        |        2        |         46         |      48     |
+|     Redlightning     |        -51        |        2        |         45         |      47     |
+| La kula gjøre jobben |        -49        |        0        |         49         |      49     |
+| Overtenningsklubben  |        -47        |        2        |         41         |      43     |
+|     Scotty knows     |        -46        |        1        |         43         |      44     |
+|       PC Bears       |        -45        |        2        |         39         |      41     |
+|       A-laget        |        -45        |        1        |         42         |      43     |
++----------------------+-------------------+-----------------+--------------------+-------------+
+
+
+ÅRETS SELVEIDE
+Spillerne med flest selvmål
++----------------------+-----------------+
+|         Team         | Total own goals |
++----------------------+-----------------+
+|     Redlightning     |        1        |
+|   team sisteplass    |        1        |
+|     Scotty knows     |        1        |
+| La kula gjøre jobben |        0        |
+|       PC Bears       |        0        |
+|       Team TH        |        0        |
+|       A-laget        |        0        |
+|     Soccer MC’s      |        0        |
+| Overtenningsklubben  |        0        |
+|   Low Rank Legends   |        0        |
++----------------------+-----------------+
+
+
+ÅRETS BOMSPILLER
+Spillerne med flest straffebom
++----------------------+------------------------+
+|         Team         | Total penalties missed |
++----------------------+------------------------+
+|     Redlightning     |           3            |
+|     Scotty knows     |           3            |
+|       PC Bears       |           2            |
+|       Team TH        |           2            |
+|       A-laget        |           2            |
+|     Soccer MC’s      |           2            |
+| Overtenningsklubben  |           2            |
+| La kula gjøre jobben |           1            |
+|   team sisteplass    |           1            |
+|   Low Rank Legends   |           0            |
++----------------------+------------------------+
+
+
+ÅRETS BONUSSPILLER
+Spillerne med flest bonuspoeng
++----------------------+--------------------+-----------+
+|         Team         | Total bonus points | Total BPS |
++----------------------+--------------------+-----------+
+|       PC Bears       |        263         |    8079   |
+|     Redlightning     |        250         |    8115   |
+|       A-laget        |        245         |    7816   |
+| Overtenningsklubben  |        240         |    7756   |
+|     Soccer MC’s      |        232         |    7943   |
+| La kula gjøre jobben |        231         |    7821   |
+|   Low Rank Legends   |        224         |    7569   |
+|   team sisteplass    |        223         |    7269   |
+|       Team TH        |        213         |    7982   |
+|     Scotty knows     |        189         |    6832   |
++----------------------+--------------------+-----------+
+
+
+ÅRETS MVP
+Spillerne som har gitt mest poeng til et lag ila. sesongen, inklusive kapteinspoeng
++----------------------+---------+---------------------+
+|         Team         |  Player | Total player points |
++----------------------+---------+---------------------+
+|       A-laget        | M.Salah |         577         |
+| La kula gjøre jobben | M.Salah |         560         |
+|       PC Bears       | M.Salah |         555         |
+|       Team TH        | M.Salah |         475         |
+| Overtenningsklubben  | M.Salah |         462         |
+|     Redlightning     | M.Salah |         457         |
+|   Low Rank Legends   | M.Salah |         431         |
+|   team sisteplass    | M.Salah |         413         |
+|     Soccer MC’s      | M.Salah |         392         |
+|     Scotty knows     | Haaland |         368         |
++----------------------+---------+---------------------+
+
+
+ÅRETS BESTE DIFF
+Spillerne som har gitt mest poeng (totalt, i snitt og på én runde) for et lag
+max_ownership_share for en differential er satt til 0.3
+Utregning av diff points for hver runde: gw_points/owned_by_count --> poeng den spilleren kun gir det laget
+
+BY TOTAL DIFF POINTS
++----------------------+---------------+--------------------+--------------+----------------+---------------------+
+|         Team         |     Player    | total_diff_points  | total_points | gameweek_count | avg_ownership_share |
++----------------------+---------------+--------------------+--------------+----------------+---------------------+
+|       PC Bears       |     Wissa     |       105.5        |     123      |       24       | 0.13333333333333333 |
+| La kula gjøre jobben |   Luis Díaz   |        95.5        |     102      |       16       |       0.13125       |
+|     Redlightning     |      Wood     | 90.83333333333334  |     110      |       19       | 0.14210526315789473 |
+|     Scotty knows     |    Watkins    | 89.33333333333333  |     147      |       29       | 0.20344827586206898 |
+|     Scotty knows     |    Haaland    | 88.33333333333333  |     158      |       16       |        0.1875       |
+|   Low Rank Legends   |      Sels     |        65.0        |      78      |       15       | 0.13333333333333333 |
+|     Scotty knows     | Strand Larsen |        60.0        |      63      |       15       | 0.12000000000000001 |
+|       PC Bears       |    Flekken    |        59.5        |      61      |       11       | 0.10909090909090911 |
+|       Team TH        |     Virgil    | 59.166666666666664 |      93      |       19       | 0.19999999999999998 |
+|     Scotty knows     |    A.Becker   |        56.0        |      56      |       15       |         0.1         |
++----------------------+---------------+--------------------+--------------+----------------+---------------------+
+
+BY AVERAGE DIFF POINTS
++----------------------+-----------+-------------------+--------------+----------------+---------------------+
+|         Team         |   Player  |  avg_diff_points  | total_points | gameweek_count | avg_ownership_share |
++----------------------+-----------+-------------------+--------------+----------------+---------------------+
+|   Low Rank Legends   |   Kiwior  |        13.0       |      13      |       1        |         0.1         |
+|     Redlightning     |    Slot   |       10.75       |      28      |       2        | 0.15000000000000002 |
+|       PC Bears       |   Rúben   |        9.0        |      9       |       1        |         0.1         |
+| La kula gjøre jobben |   Arteta  |        8.5        |      17      |       1        |         0.2         |
+|     Soccer MC’s      |    Pope   | 8.333333333333334 |      28      |       3        | 0.13333333333333333 |
+|   team sisteplass    |    Slot   |        8.25       |      23      |       2        | 0.15000000000000002 |
+|   team sisteplass    |   Bowen   |        8.2        |      41      |       5        |         0.1         |
+|       PC Bears       |   Gakpo   |        8.0        |      16      |       1        |         0.2         |
+|       A-laget        | Guardiola |        8.0        |      24      |       3        | 0.10000000000000002 |
+| La kula gjøre jobben | Cucurella |        7.5        |      15      |       1        |         0.2         |
++----------------------+-----------+-------------------+--------------+----------------+---------------------+
+
+BY HIGHEST SINGLE GAMEWEEK DIFF
++----------------------+-----------+-----------------+-------------------+--------------------------+
+|         Team         |   Player  | max_diff_points | max_diff_gameweek | max_diff_ownership_share |
++----------------------+-----------+-----------------+-------------------+--------------------------+
+|   team sisteplass    |   Bowen   |       24.0      |         15        |           0.1            |
+|       PC Bears       |   Foden   |       19.0      |         22        |           0.1            |
+|     Soccer MC’s      |  Solanke  |       16.0      |         10        |           0.1            |
+|     Scotty knows     |  Haaland  |       16.0      |         27        |           0.1            |
+| La kula gjøre jobben | Luis Díaz |       15.0      |         3         |           0.1            |
+| La kula gjøre jobben |  Maddison |       15.0      |         16        |           0.1            |
+|     Redlightning     |    Hall   |       15.0      |         16        |           0.1            |
+|     Redlightning     |    Slot   |       15.0      |         24        |           0.1            |
+|     Soccer MC’s      |  Gabriel  |       15.0      |         4         |           0.1            |
+|     Soccer MC’s      |    Pope   |       15.0      |         32        |           0.1            |
++----------------------+-----------+-----------------+-------------------+--------------------------+
+
+
+ÅRETS HØYESTE RANK
+Spillerne med høyest gw+overall rank
++----------------------+-----------------+----------------------+
+|         Team         | Highest GW rank | Highest overall rank |
++----------------------+-----------------+----------------------+
+| Overtenningsklubben  |      187812     |        90441         |
+|       PC Bears       |      193092     |        90630         |
+| La kula gjøre jobben |        13       |        172926        |
+|       Team TH        |      79397      |        241401        |
+|       A-laget        |      10265      |        406221        |
+|     Redlightning     |      242882     |        440318        |
+|     Soccer MC’s      |      37071      |        492869        |
+|   team sisteplass    |      272774     |       1584616        |
+|     Scotty knows     |      403100     |       2159352        |
+|   Low Rank Legends   |      187628     |       3290877        |
++----------------------+-----------------+----------------------+
+
+
+ÅRETS LAVESTE RANK
+Spillerne med lavest gw+overall rank
++----------------------+----------------+---------------------+
+|         Team         | Lowest GW rank | Lowest overall rank |
++----------------------+----------------+---------------------+
+|   Low Rank Legends   |    9952129     |       8207971       |
+|     Scotty knows     |    10157127    |       6776093       |
+| La kula gjøre jobben |    10628243    |       6047504       |
+|     Soccer MC’s      |    9822857     |       5279433       |
+|   team sisteplass    |    10072011    |       5041270       |
+|       Team TH        |    10502187    |       3866410       |
+|     Redlightning     |    10072011    |       3245434       |
+| Overtenningsklubben  |    10197382    |       3110491       |
+|       A-laget        |    8710333     |       2621727       |
+|       PC Bears       |    9435379     |       1947224       |
++----------------------+----------------+---------------------+
+
+
+ÅRETS TEMPLATE
+Managerne med likest lag som de andre (i snitt per spiller per gameweek)
++----------------------+-------------------------------------+
+|         Team         | Average player ownership percentage |
++----------------------+-------------------------------------+
+|     Soccer MC’s      |          41.21271929824562          |
+|       A-laget        |          40.88706140350878          |
+| Overtenningsklubben  |          40.88486842105263          |
+|   team sisteplass    |          39.685307017543856         |
+|     Redlightning     |          39.67105263157896          |
+|       Team TH        |          39.24780701754385          |
+|       PC Bears       |          37.58004385964913          |
+| La kula gjøre jobben |          36.478070175438596         |
+|   Low Rank Legends   |          33.91885964912281          |
+|     Scotty knows     |          30.007675438596493         |
++----------------------+-------------------------------------+
+
+
+ÅRETS VINGLEPETTER
+Managerne som har vært innom flest plasser på tabellen
++----------------------+----------------------+-----------------------------+
+|         Team         | Antall unike plasser |           Plasser           |
++----------------------+----------------------+-----------------------------+
+| La kula gjøre jobben |          9           | {1, 2, 3, 4, 5, 6, 7, 8, 9} |
+|       Team TH        |          8           |   {1, 2, 3, 4, 5, 6, 7, 8}  |
+|     Redlightning     |          7           |    {1, 2, 3, 4, 5, 6, 7}    |
+| Overtenningsklubben  |          7           |    {1, 2, 3, 4, 5, 6, 7}    |
+|       A-laget        |          6           |      {2, 3, 4, 5, 6, 7}     |
+|       PC Bears       |          5           |       {1, 2, 3, 4, 5}       |
+|     Soccer MC’s      |          5           |       {4, 5, 6, 7, 8}       |
+|     Scotty knows     |          5           |       {6, 7, 8, 9, 10}      |
+|   team sisteplass    |          4           |         {8, 3, 5, 6}        |
+|   Low Rank Legends   |          2           |           {9, 10}           |
++----------------------+----------------------+-----------------------------+
+
+
+ÅRETS CHIPP-KONGE
+Mest poeng på chips
++----------------------+--------------------------------------+-------------------+-----------------------+
+|         Team         | Total chip points excluding wildcard | Total chip points | Total wildcard points |
++----------------------+--------------------------------------+-------------------+-----------------------+
+|     Redlightning     |                 381                  |        453        |           72          |
+|     Soccer MC’s      |                 381                  |        482        |          101          |
+| Overtenningsklubben  |                 342                  |        465        |          123          |
+| La kula gjøre jobben |                 316                  |        435        |          119          |
+|       A-laget        |                 316                  |        417        |          101          |
+|       PC Bears       |                 311                  |        428        |          117          |
+|       Team TH        |                 307                  |        453        |          146          |
+|   team sisteplass    |                 272                  |        387        |          115          |
+|   Low Rank Legends   |                 240                  |        316        |           76          |
+|     Scotty knows     |                 155                  |        259        |          104          |
++----------------------+--------------------------------------+-------------------+-----------------------+
+
+
+ÅRETS PIMP
+Mest hits, best hits (samme gameweek)
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+|         Team         | Total pts earned on hits | Avg. pts earned per hit | Avg. pts for players IN with hits | Avg. pts for players OUT with hits | Total transfers | Total transfer hits | Total transfer cost | Avg. cost per transfer |
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+| Overtenningsklubben  |            14            |           2.8           |                8.6                |                1.8                 |        38       |          5          |          20         |   0.5263157894736842   |
+|     Soccer MC’s      |            1             |           0.5           |                4.5                |                0.0                 |        36       |          2          |          8          |   0.2222222222222222   |
+|       Team TH        |            0             |            0            |                 -                 |                 -                  |        34       |          0          |          0          |          0.0           |
+|     Scotty knows     |            0             |            0            |                 -                 |                 -                  |        34       |          0          |          0          |          0.0           |
+|       A-laget        |            -9            |          -2.25          |                4.75               |                3.0                 |        38       |          4          |          16         |  0.42105263157894735   |
+|   Low Rank Legends   |           -13            |           -1.3          |                4.5                |                1.8                 |        44       |          10         |          40         |   0.9090909090909091   |
+| La kula gjøre jobben |           -17            |          -17.0          |                0.0                |                13.0                |        34       |          1          |          4          |  0.11764705882352941   |
+|     Redlightning     |           -19            |   -3.1666666666666665   |         4.666666666666667         |         3.8333333333333335         |        40       |          6          |          24         |          0.6           |
+|       PC Bears       |           -25            |    -2.272727272727273   |         2.727272727272727         |                1.0                 |        44       |          11         |          44         |          1.0           |
+|   team sisteplass    |           -25            |           -5.0          |                2.4                |                3.4                 |        34       |          5          |          20         |   0.5882352941176471   |
++----------------------+--------------------------+-------------------------+-----------------------------------+------------------------------------+-----------------+---------------------+---------------------+------------------------+
+
+
+ÅRETS HIGHSCORE
+Mest poeng på én gameweek
++----------------------+-----------------+---------------+-----------------+
+|         Team         | Gameweek points | Gameweek rank | Gameweek number |
++----------------------+-----------------+---------------+-----------------+
+|     Redlightning     |       139       |     626533    |        24       |
+|     Soccer MC’s      |       124       |    1657416    |        24       |
+|   team sisteplass    |       122       |    1837011    |        24       |
+|   Low Rank Legends   |       116       |    2533295    |        24       |
+|       PC Bears       |       114       |    2834525    |        24       |
+|       A-laget        |       114       |     153321    |        25       |
+| Overtenningsklubben  |       113       |     187812    |        25       |
+| La kula gjøre jobben |       103       |    4521638    |        24       |
+| Overtenningsklubben  |       102       |    4682430    |        24       |
+| La kula gjøre jobben |       101       |     137229    |        32       |
++----------------------+-----------------+---------------+-----------------+
+
+
+ÅRETS LOWSCORE
+Lavest poeng på én gameweek
++----------------------+-----------------+---------------+-----------------+
+|         Team         | Gameweek points | Gameweek rank | Gameweek number |
++----------------------+-----------------+---------------+-----------------+
+|       Team TH        |        22       |    9827888    |        8        |
+|       PC Bears       |        24       |    9435379    |        8        |
+| La kula gjøre jobben |        28       |    10628243   |        22       |
+|     Redlightning     |        28       |    8567764    |        29       |
+| Overtenningsklubben  |        28       |    10197382   |        35       |
+|   team sisteplass    |        28       |    8567764    |        29       |
+|     Scotty knows     |        28       |    7754567    |        31       |
+|       Team TH        |        29       |    10502187   |        22       |
+|       Team TH        |        29       |    10155741   |        36       |
+|     Redlightning     |        29       |    7762346    |        8        |
++----------------------+-----------------+---------------+-----------------+
+
+
+ÅRETS RUNDBRENNER
+Managerne som har vært innom flest unike spillere
++----------------------+----------------------------+
+|         Team         | Number of distinct players |
++----------------------+----------------------------+
+|   Low Rank Legends   |             73             |
+|     Redlightning     |             71             |
+|       PC Bears       |             65             |
+| Overtenningsklubben  |             65             |
+|     Scotty knows     |             65             |
+|       A-laget        |             63             |
+|   team sisteplass    |             63             |
+|       Team TH        |             61             |
+|     Soccer MC’s      |             61             |
+| La kula gjøre jobben |             59             |
++----------------------+----------------------------+
+
+
+ÅRETS SPÅMANN
+Mest poeng fra spillere byttet inn samme runde
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+|         Team         | Total points from players transferred in (the same gw) | Average points from players transferred in (the same gw) |
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+|     Soccer MC’s      |                          418                           |                    5.726027397260274                     |
+|       PC Bears       |                          389                           |                    5.118421052631579                     |
+|       Team TH        |                          379                           |                    6.015873015873016                     |
+|     Redlightning     |                          345                           |                    4.5394736842105265                    |
+|       A-laget        |                          334                           |                    4.840579710144928                     |
+| Overtenningsklubben  |                          332                           |                    4.882352941176471                     |
+|   team sisteplass    |                          314                           |                    4.485714285714286                     |
+|   Low Rank Legends   |                          306                           |                    4.026315789473684                     |
+| La kula gjøre jobben |                          281                           |                         4.390625                         |
+|     Scotty knows     |                          237                           |                         3.703125                         |
++----------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+
+ÅRETS KARMA
+Mest poeng fra spillere byttet UT samme runde
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+|         Team         | Total points from players transferred out (the same gw) | Average points from players transferred out (the same gw) |
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+|       PC Bears       |                           221                           |                     2.5697674418604652                    |
+| La kula gjøre jobben |                           213                           |                          3.328125                         |
+|     Redlightning     |                           213                           |                     2.6962025316455698                    |
+|   team sisteplass    |                           209                           |                     2.7866666666666666                    |
+|     Soccer MC’s      |                           196                           |                     2.3058823529411763                    |
+|       A-laget        |                           192                           |                     2.526315789473684                     |
+|   Low Rank Legends   |                           189                           |                     2.4545454545454546                    |
+| Overtenningsklubben  |                           157                           |                     2.242857142857143                     |
+|     Scotty knows     |                           123                           |                          1.921875                         |
+|       Team TH        |                           103                           |                     1.5846153846153845                    |
++----------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+
+ÅRETS VANILLA (ICE)
+Mest vaniljepoeng, ie. poengtotal ekskludert ekstra kapteinspoeng (inkl. TC), auto-subs og benkespillere fra bench boost
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+|         Team         | Total vanilla points | Total points | Extra captain points | Total auto sub points | Total bench boost bench points |
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+|     Soccer MC’s      |         1679         |     2412     |         660          |           45          |               28               |
+|     Redlightning     |         1668         |     2415     |         704          |           37          |               6                |
+|       PC Bears       |         1647         |     2440     |         744          |           35          |               14               |
+|       Team TH        |         1628         |     2424     |         754          |           38          |               4                |
+| La kula gjøre jobben |         1611         |     2410     |         748          |           32          |               19               |
+|       A-laget        |         1584         |     2427     |         780          |           51          |               12               |
+|   Low Rank Legends   |         1569         |     2170     |         488          |           94          |               19               |
+| Overtenningsklubben  |         1552         |     2332     |         712          |           55          |               13               |
+|     Scotty knows     |         1494         |     1938     |         406          |           38          |               0                |
+|   team sisteplass    |         1480         |     2217     |         628          |           99          |               10               |
++----------------------+----------------------+--------------+----------------------+-----------------------+--------------------------------+
+
+
+FERDIG!
